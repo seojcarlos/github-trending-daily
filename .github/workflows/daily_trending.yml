@@ -1,0 +1,33 @@
+# .github/workflows/daily_trending.yml
+name: Actualización diaria de trending
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Cada día a las 8:00 UTC
+  workflow_dispatch:
+
+jobs:
+  trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instalar requests
+        run: pip install requests
+
+      - name: Ejecutar script
+        run: python fetch_trending.py
+
+      - name: Commit y push
+        run: |
+          git config --global user.name "GitHub Bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add trending_repos.md
+          git commit -m "chore: actualización diaria de trending"
+          git push
