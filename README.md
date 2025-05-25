@@ -11,7 +11,7 @@
 
 ## 🔥 ¿Qué hace este proyecto?
 
-`auto-contributions` automatiza tareas técnicas útiles, generando actividad diaria real y valiosa en tu perfil de GitHub. Cada día:
+`auto-contributions` :
 
 - ✅ Publica los **20 repositorios más populares de GitHub**
 - 🔁 Actualiza dependencias reales vía **Dependabot**
