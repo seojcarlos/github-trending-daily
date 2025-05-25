@@ -5,7 +5,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/seojcarlos/auto-contributions/daily_trending.yml?label=Actualización%20Diaria)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/seojcarlos/auto-contributions)
 
-> 🚀 Automatización profesional de commits diarios para mantener tu perfil activo y demostrar dominio técnico. Optimizado para SEO y GitHub Rank.
+
 
 ---
 
