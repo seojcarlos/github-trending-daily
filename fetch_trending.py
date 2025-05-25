@@ -1,7 +1,7 @@
 # fetch_trending.py
 import requests
 from datetime import datetime
-
+import os
 url = "https://github-trending-api.de.a9sapp.eu/repositories?since=daily"
 
 try:
