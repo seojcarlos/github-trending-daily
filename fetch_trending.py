@@ -2,7 +2,7 @@
 import requests
 from datetime import datetime
 
-url = "https://ghapi.huchen.dev/repositories?since=daily"
+url = "https://github-trending-api.de.a9sapp.eu/repositories?since=daily"
 
 try:
     response = requests.get(url)
