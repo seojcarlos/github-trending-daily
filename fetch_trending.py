@@ -16,6 +16,9 @@ try:
         line = f"{i}. [{repo['author']}/{repo['name']}]({repo['url']}) ⭐ {repo['stars']}  \n   _{repo['description']}_\n"
         content.append(line)
 
+    # 👉 Forzar un cambio mínimo con una línea oculta
+    content.append(f"\n<!-- Última actualización: {datetime.utcnow().isoformat()} UTC -->")
+
     with open("trending_repos.md", "w", encoding="utf-8") as f:
         f.write("\n".join(content))
 
