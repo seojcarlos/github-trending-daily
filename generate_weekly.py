@@ -9,13 +9,14 @@ OUTPUT_FILE = "trending_weekly.md"
 DAYS = 7
 
 def get_last_n_days_files(n):
-    today = datetime.utcnow()
+    today = datetime.now(datetime.UTC)
     files = []
-    for i in range(n):
-        day = today - timedelta(days=i)
-        fname = os.path.join(HIST_DIR, f"{day.strftime('%Y-%m-%d')}.md")
-        if os.path.exists(fname):
-            files.append(fname)
+    if os.path.exists(HIST_DIR):
+        for i in range(n):
+            day = today - timedelta(days=i)
+            fname = os.path.join(HIST_DIR, f"{day.strftime('%Y-%m-%d')}.md")
+            if os.path.exists(fname):
+                files.append(fname)
     return files
 
 def extract_repos_from_file(filepath):

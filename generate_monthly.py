@@ -8,12 +8,13 @@ HIST_DIR = "trending_history"
 OUTPUT_FILE = "trending_monthly.md"
 
 def get_current_month_files():
-    today = datetime.utcnow()
+    today = datetime.now(datetime.UTC)
     prefix = today.strftime("%Y-%m-")
     files = []
-    for fname in os.listdir(HIST_DIR):
-        if fname.startswith(prefix) and fname.endswith(".md"):
-            files.append(os.path.join(HIST_DIR, fname))
+    if os.path.exists(HIST_DIR):
+        for fname in os.listdir(HIST_DIR):
+            if fname.startswith(prefix) and fname.endswith(".md"):
+                files.append(os.path.join(HIST_DIR, fname))
     return files
 
 def extract_repos_from_file(filepath):
