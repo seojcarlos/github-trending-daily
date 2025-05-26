@@ -29,14 +29,30 @@ Ideal para:
 | Tarea                              | Frecuencia | Tecnología             |
 |-----------------------------------|------------|------------------------|
 | Trending repos (Top 20 diarios)   | Diario     | Python + GitHub API    |
+| Historial diario de trending      | Diario     | Python + Markdown      |
+| Mejores de la semana/mes          | Semanal/Mensual | Python + Markdown  |
 | Auto-merge de dependencias        | Diario     | GitHub Actions + Bot   |
 | Informes técnicos (soon)          | Semanal    | GitHub API + Markdown  |
 
 ---
 
-## 📅 Histórico de contribuciones
+## 📅 Histórico y rankings
 
-Consulta el archivo [`trending_repos.md`](./trending_repos.md) para ver el histórico de los repositorios más populares extraídos cada día.
+- El historial diario se guarda en la carpeta [`trending_history/`](./trending_history/) con un archivo por día (`YYYY-MM-DD.md`).
+- Los repositorios más populares de la semana se generan en [`trending_weekly.md`](./trending_weekly.md) ejecutando `python generate_weekly.py`.
+- Los repositorios más populares del mes se generan en [`trending_monthly.md`](./trending_monthly.md) ejecutando `python generate_monthly.py`.
+- El archivo [`trending_repos.md`](./trending_repos.md) muestra el top 20 del día actual.
+
+---
+
+## ⚙️ Automatización técnica
+
+Este repositorio utiliza:
+- `GitHub Actions` con cron (`on: schedule`)
+- `Python` para extracción de datos desde APIs públicas y generación de históricos/rankings
+- Scripts: `fetch_trending.py` (historial diario), `generate_weekly.py` (ranking semanal), `generate_monthly.py` (ranking mensual)
+- `Dependabot` con merge automático habilitado
+- Commits automáticos con `bot@users.noreply.github.com`
 
 ---
 
@@ -77,4 +93,3 @@ Este proyecto ha sido desarrollado y automatizado por:
 ## 💡 ¿Quieres hacer lo mismo?
 
 Forkea este repositorio o [contáctame](mailto:juan@convertiam.com) si quieres replicar esta automatización para tu perfil profesional o empresa.
-

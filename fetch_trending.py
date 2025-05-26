@@ -19,6 +19,12 @@ try:
     # 👉 Forzar un cambio mínimo con una línea oculta
     content.append(f"\n<!-- Última actualización: {datetime.utcnow().isoformat()} UTC -->")
 
+    # Crear carpeta de historial si no existe
+    os.makedirs("trending_history", exist_ok=True)
+    # Guardar archivo diario en trending_history/YYYY-MM-DD.md
+    with open(f"trending_history/{today}.md", "w", encoding="utf-8") as f_hist:
+        f_hist.write("\n".join(content))
+    # Guardar archivo principal
     with open("trending_repos.md", "w", encoding="utf-8") as f:
         f.write("\n".join(content))
 
