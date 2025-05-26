@@ -4,8 +4,12 @@ from datetime import datetime
 import os
 url = "https://github-trending-api.de.a9sapp.eu/repositories?since=daily"
 
+# Leer token de entorno si existe
+token = os.environ.get("GITHUB_TOKEN")
+headers = {"Authorization": f"Bearer {token}"} if token else {}
+
 try:
-    response = requests.get(url)
+    response = requests.get(url, headers=headers)
     response.raise_for_status()
     data = response.json()
 
