@@ -38,6 +38,7 @@ jobs:
             echo "No hay cambios para commitear"
           else
             git commit -m "chore: actualización diaria de trending"
+            git pull --rebase
             git push
           fi
         env:
