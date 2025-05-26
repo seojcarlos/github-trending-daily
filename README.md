@@ -41,7 +41,7 @@ Ideal para:
 - El historial diario se guarda en la carpeta [`trending_history/`](./trending_history/) con un archivo por día (`YYYY-MM-DD.md`).
 - Los repositorios más populares de la semana se generan en [`trending_weekly.md`](./trending_weekly.md) ejecutando `python generate_weekly.py`.
 - Los repositorios más populares del mes se generan en [`trending_monthly.md`](./trending_monthly.md) ejecutando `python generate_monthly.py`.
-- El archivo [`trending_repos.md`](./trending_repos.md) muestra el top 20 del día actual.
+- El archivo [`trending_daily.md`](./trending_daily.md) muestra el top 20 del día actual.
 
 ---
 

@@ -29,7 +29,7 @@ try:
     with open(f"trending_history/{today}.md", "w", encoding="utf-8") as f_hist:
         f_hist.write("\n".join(content))
     # Guardar archivo principal
-    with open("trending_repos.md", "w", encoding="utf-8") as f:
+    with open("trending_daily.md", "w", encoding="utf-8") as f:
         f.write("\n".join(content))
 
 except Exception as e:
