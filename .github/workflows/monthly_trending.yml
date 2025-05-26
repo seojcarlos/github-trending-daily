@@ -1,13 +1,12 @@
-# .github/workflows/daily_trending.yml
-name: Actualización diaria de trending
+name: Actualización mensual de trending
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Cada día a las 8:00 UTC
+    - cron: '0 8 1 * *'  # El primer día de cada mes a las 8:00 UTC
   workflow_dispatch:
 
 jobs:
-  trending:
+  trending_monthly:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -25,19 +24,20 @@ jobs:
       - name: Instalar requests
         run: pip install requests
 
-      - name: Ejecutar script
-        run: python fetch_trending.py
+      - name: Ejecutar script mensual
+        run: python generate_monthly.py
 
       - name: Commit y push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git add trending_repos.md
+          git add trending_monthly.md
           if git diff --staged --quiet; then
             echo "No hay cambios para commitear"
           else
-            git commit -m "chore: actualización diaria de trending"
+            git commit -m "chore: actualización mensual de trending"
+            git pull --rebase
             git push
           fi
         env:
