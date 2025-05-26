@@ -1,0 +1,1 @@
+# No hay datos suficientes para este mes.
