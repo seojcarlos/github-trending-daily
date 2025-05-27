@@ -1,64 +1,64 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-05-26
+# ⭐ Top 20 repositorios populares en GitHub - 2025-05-27
 
-1. [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) ⭐ 6679  
+1. [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) ⭐ 7705  
    _Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity._
 
-2. [groupultra/telegram-search](https://github.com/groupultra/telegram-search) ⭐ 1658  
+2. [groupultra/telegram-search](https://github.com/groupultra/telegram-search) ⭐ 1784  
    _🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。_
 
-3. [microsoft/qlib](https://github.com/microsoft/qlib) ⭐ 22010  
+3. [microsoft/qlib](https://github.com/microsoft/qlib) ⭐ 22344  
    _Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL._
 
-4. [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 52892  
+4. [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 53026  
    _Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks._
 
-5. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 40001  
+5. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 40072  
    _The Free Software Media System - Server Backend & API_
 
-6. [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐ 94076  
+6. [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐ 94212  
    _Collection of publicly available IPTV channels from all over the world_
 
-7. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 323500  
+7. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 323672  
    _Interactive roadmaps, guides and other educational content to help developers grow in their careers._
 
-8. [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 61542  
+8. [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 61633  
    _🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application._
 
-9. [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) ⭐ 2327  
+9. [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) ⭐ 2449  
    _A cross-platform fluent-design AI-boost multi-threaded downloader built with Python._
 
-10. [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) ⭐ 30086  
+10. [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) ⭐ 30225  
    _AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need_
 
-11. [ossu/computer-science](https://github.com/ossu/computer-science) ⭐ 181873  
+11. [ossu/computer-science](https://github.com/ossu/computer-science) ⭐ 182151  
    _🎓 Path to a free self-taught education in Computer Science!_
 
-12. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 19840  
+12. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 19938  
    _An open source payments switch written in Rust to make payments fast, reliable and affordable_
 
-13. [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 20486  
+13. [uutils/coreutils](https://github.com/uutils/coreutils) ⭐ 20545  
    _Cross-platform Rust rewrite of the GNU coreutils_
 
-14. [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) ⭐ 11990  
+14. [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) ⭐ 12023  
    _Nvim Treesitter configurations and abstraction layer_
 
-15. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) ⭐ 63871  
+15. [langflow-ai/langflow](https://github.com/langflow-ai/langflow) ⭐ 64282  
    _Langflow is a powerful tool for building and deploying AI-powered agents and workflows._
 
-16. [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 50684  
+16. [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 50812  
    _Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)_
 
-17. [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) ⭐ 4747  
+17. [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) ⭐ 4841  
    _Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report_
 
-18. [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) ⭐ 1016  
+18. [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) ⭐ 1110  
    _A real-time F1 dashboard_
 
-19. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 25898  
+19. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 25986  
    _Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG._
 
-20. [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) ⭐ 19042  
+20. [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) ⭐ 19229  
    _The easiest way to run WireGuard VPN + Web-based Admin UI._
 
 
-<!-- Última actualización: 2025-05-26T19:00:50.087623 UTC -->
+<!-- Última actualización: 2025-05-27T06:49:10.838944 UTC -->
