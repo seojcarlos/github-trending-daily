@@ -1,40 +1,46 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-05-31
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-01
 
-1. [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) ⭐ 6117  
+1. [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) ⭐ 7034  
    _Anthropic's Interactive Prompt Engineering Tutorial_
 
-2. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 22839  
-   _11 Lessons to Get Started Building AI Agents_
+2. [onlook-dev/onlook](https://github.com/onlook-dev/onlook) ⭐ 10114  
+   _The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI_
 
-3. [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 171357  
-   _A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more._
-
-4. [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) ⭐ 3517  
+3. [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) ⭐ 3943  
    _BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV_
 
-5. [getzep/graphiti](https://github.com/getzep/graphiti) ⭐ 10345  
-   _Build Real-Time Knowledge Graphs for AI Agents_
+4. [fastapi/fastapi](https://github.com/fastapi/fastapi) ⭐ 85747  
+   _FastAPI framework, high performance, easy to learn, fast to code, ready for production_
 
-6. [anthropics/courses](https://github.com/anthropics/courses) ⭐ 12539  
-   _Anthropic's educational courses_
+5. [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 97581  
+   _A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev_
 
-7. [ccxt/ccxt](https://github.com/ccxt/ccxt) ⭐ 36663  
-   _A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges_
+6. [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) ⭐ 12740  
+   _A collection of notebooks/recipes showcasing some fun and effective ways of using Claude._
 
-8. [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged) ⭐ 1403  
-   _Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!_
+7. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 23215  
+   _11 Lessons to Get Started Building AI Agents_
 
-9. [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) ⭐ 15669  
-   _Bring portraits to life!_
+8. [frdel/agent-zero](https://github.com/frdel/agent-zero) ⭐ 7071  
+   _Agent Zero AI framework_
 
-10. [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) ⭐ 13821  
-   _Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity._
+9. [syncthing/syncthing](https://github.com/syncthing/syncthing) ⭐ 70993  
+   _Open Source Continuous File Synchronization_
 
-11. [langgenius/dify](https://github.com/langgenius/dify) ⭐ 100091  
-   _Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production._
+10. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 84407  
+   _21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/_
 
-12. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 127437  
-   _This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better._
+11. [mui/mui-x](https://github.com/mui/mui-x) ⭐ 5032  
+   _MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!_
+
+12. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 6956  
+   _Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration._
+
+13. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 56656  
+   _🐙 Guides, papers, lecture, notebooks and resources for prompt engineering_
+
+14. [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) ⭐ 2717  
+   _鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves_
 
 
-<!-- Última actualización: 2025-05-31T08:05:09.075854 UTC -->
+<!-- Última actualización: 2025-06-01T08:05:02.122915 UTC -->
