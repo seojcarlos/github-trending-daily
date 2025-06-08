@@ -1,49 +1,52 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-07
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-08
 
-1. [netbirdio/netbird](https://github.com/netbirdio/netbird) ⭐ 14817  
-   _Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls._
-
-2. [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) ⭐ 5360  
-   _Build effective agents using Model Context Protocol and simple workflow patterns_
-
-3. [topoteretes/cognee](https://github.com/topoteretes/cognee) ⭐ 3461  
+1. [topoteretes/cognee](https://github.com/topoteretes/cognee) ⭐ 4298  
    _Memory for AI Agents in 5 lines of code_
 
-4. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) ⭐ 24922  
-   _DSPy: The framework for programming—not prompting—language models_
+2. [netbirdio/netbird](https://github.com/netbirdio/netbird) ⭐ 15074  
+   _Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls._
 
-5. [codexu/note-gen](https://github.com/codexu/note-gen) ⭐ 3401  
+3. [codexu/note-gen](https://github.com/codexu/note-gen) ⭐ 3706  
    _A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note._
 
-6. [unslothai/notebooks](https://github.com/unslothai/notebooks) ⭐ 1413  
-   _Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more._
+4. [scrapy/scrapy](https://github.com/scrapy/scrapy) ⭐ 56602  
+   _Scrapy, a fast high-level web crawling & scraping framework for Python._
 
-7. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 319345  
-   _A complete computer science study plan to become a software engineer._
+5. [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) ⭐ 13003  
+   _An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces._
 
-8. [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) ⭐ 918  
+6. [jwohlwend/boltz](https://github.com/jwohlwend/boltz) ⭐ 2052  
+   _Official repository for the Boltz biomolecular interaction models_
+
+7. [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) ⭐ 1070  
    _Building blocks for rapid development of GenAI applications_
 
-9. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 90060  
-   _An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer._
+8. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) ⭐ 25021  
+   _DSPy: The framework for programming—not prompting—language models_
 
-10. [coleam00/Archon](https://github.com/coleam00/Archon) ⭐ 4766  
-   _Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents._
+9. [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) ⭐ 1807  
+   _A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design._
 
-11. [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 54657  
+10. [langgenius/dify](https://github.com/langgenius/dify) ⭐ 101992  
+   _Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production._
+
+11. [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 54831  
    _Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks._
 
-12. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 230561  
-   _Curated list of project-based tutorials_
+12. [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐ 350070  
+   _A collective list of free APIs_
 
-13. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) ⭐ 12823  
-   _ArduPlane, ArduCopter, ArduRover, ArduSub source_
+13. [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ⭐ 7879  
+   _Java version of LangChain_
 
-14. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 385197  
-   _Master programming by recreating your favorite technologies from scratch._
+14. [iib0011/omni-tools](https://github.com/iib0011/omni-tools) ⭐ 2841  
+   _Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!_
 
-15. [onlook-dev/onlook](https://github.com/onlook-dev/onlook) ⭐ 17080  
-   _The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI_
+15. [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 245936  
+   _An opinionated list of awesome Python frameworks, libraries, software and resources._
+
+16. [alphacep/vosk-api](https://github.com/alphacep/vosk-api) ⭐ 10075  
+   _Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node_
 
 
-<!-- Última actualización: 2025-06-07T08:04:58.720712 UTC -->
+<!-- Última actualización: 2025-06-08T08:04:56.835333 UTC -->
