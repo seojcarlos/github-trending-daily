@@ -1,52 +1,52 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-09
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-10
 
-1. [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) ⭐ 5609  
+1. [alphacep/vosk-api](https://github.com/alphacep/vosk-api) ⭐ 11134  
+   _Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node_
+
+2. [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) ⭐ 6081  
    _TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models._
 
-2. [codexu/note-gen](https://github.com/codexu/note-gen) ⭐ 4206  
-   _A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note._
-
-3. [langgenius/dify](https://github.com/langgenius/dify) ⭐ 102380  
-   _Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production._
-
-4. [topoteretes/cognee](https://github.com/topoteretes/cognee) ⭐ 4759  
-   _Memory for AI Agents in 5 lines of code_
-
-5. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) ⭐ 28956  
+3. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) ⭐ 29097  
    _Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses._
 
-6. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 33821  
-   _Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models._
+4. [topoteretes/cognee](https://github.com/topoteretes/cognee) ⭐ 5175  
+   _Memory for AI Agents in 5 lines of code_
 
-7. [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) ⭐ 15795  
+5. [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 13577  
+   _An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others._
+
+6. [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 17303  
+   _This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses._
+
+7. [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) ⭐ 7725  
+   _The Fully Customizable Desktop Environment for Windows 10/11._
+
+8. [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) ⭐ 16384  
    _健康学习到150岁 - 人体系统调优不完全指南_
 
-8. [iib0011/omni-tools](https://github.com/iib0011/omni-tools) ⭐ 3254  
-   _Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!_
+9. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 57367  
+   _🐙 Guides, papers, lecture, notebooks and resources for prompt engineering_
 
-9. [netbirdio/netbird](https://github.com/netbirdio/netbird) ⭐ 15251  
-   _Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls._
+10. [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) ⭐ 4667  
+   _Offline build planner for Path of Exile._
 
-10. [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) ⭐ 1990  
-   _A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design._
+11. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 26282  
+   _Self-hosted game stream host for Moonlight._
 
-11. [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) ⭐ 7228  
+12. [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) ⭐ 7460  
    _List of free GPTs that doesn't require plus subscription_
 
-12. [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) ⭐ 1214  
-   _Building blocks for rapid development of GenAI applications_
+13. [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) ⭐ 3488  
+   _Copy playlists and liked music from Spotify to YTMusic_
 
-13. [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 44376  
-   _Bootstrap Kubernetes the hard way. No scripts._
+14. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 34181  
+   _Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models._
 
-14. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 385813  
-   _Master programming by recreating your favorite technologies from scratch._
+15. [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ⭐ 23155  
+   _NVR with realtime local object detection for IP cameras_
 
-15. [unslothai/notebooks](https://github.com/unslothai/notebooks) ⭐ 1851  
-   _Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more._
-
-16. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) ⭐ 25174  
-   _DSPy: The framework for programming—not prompting—language models_
+16. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 40579  
+   _The Free Software Media System - Server Backend & API_
 
 
-<!-- Última actualización: 2025-06-09T08:06:20.838621 UTC -->
+<!-- Última actualización: 2025-06-10T08:06:05.023908 UTC -->
