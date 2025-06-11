@@ -1,52 +1,46 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-10
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-11
 
-1. [alphacep/vosk-api](https://github.com/alphacep/vosk-api) ⭐ 11134  
-   _Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node_
+1. [jwohlwend/boltz](https://github.com/jwohlwend/boltz) ⭐ 2557  
+   _Official repository for the Boltz biomolecular interaction models_
 
-2. [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) ⭐ 6081  
+2. [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) ⭐ 6476  
    _TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models._
 
-3. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) ⭐ 29097  
-   _Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses._
+3. [alphacep/vosk-api](https://github.com/alphacep/vosk-api) ⭐ 11588  
+   _Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node_
 
-4. [topoteretes/cognee](https://github.com/topoteretes/cognee) ⭐ 5175  
-   _Memory for AI Agents in 5 lines of code_
-
-5. [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 13577  
-   _An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others._
-
-6. [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 17303  
-   _This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses._
-
-7. [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) ⭐ 7725  
-   _The Fully Customizable Desktop Environment for Windows 10/11._
-
-8. [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) ⭐ 16384  
-   _健康学习到150岁 - 人体系统调优不完全指南_
-
-9. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 57367  
-   _🐙 Guides, papers, lecture, notebooks and resources for prompt engineering_
-
-10. [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) ⭐ 4667  
-   _Offline build planner for Path of Exile._
-
-11. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 26282  
-   _Self-hosted game stream host for Moonlight._
-
-12. [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) ⭐ 7460  
+4. [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) ⭐ 7770  
    _List of free GPTs that doesn't require plus subscription_
 
-13. [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) ⭐ 3488  
-   _Copy playlists and liked music from Spotify to YTMusic_
+5. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 57764  
+   _🐙 Guides, papers, lecture, notebooks and resources for prompt engineering_
 
-14. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 34181  
-   _Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models._
+6. [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) ⭐ 8327  
+   _The Fully Customizable Desktop Environment for Windows 10/11._
 
-15. [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ⭐ 23155  
-   _NVR with realtime local object detection for IP cameras_
+7. [ourongxing/newsnow](https://github.com/ourongxing/newsnow) ⭐ 10946  
+   _Elegant reading of real-time and hottest news_
 
-16. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 40579  
-   _The Free Software Media System - Server Backend & API_
+8. [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) ⭐ 16824  
+   _健康学习到150岁 - 人体系统调优不完全指南_
+
+9. [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) ⭐ 17069  
+   _《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程_
+
+10. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) ⭐ 29207  
+   _Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses._
+
+11. [YaLTeR/niri](https://github.com/YaLTeR/niri) ⭐ 8118  
+   _A scrollable-tiling Wayland compositor._
+
+12. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 52952  
+   _Model Context Protocol Servers_
+
+13. [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) ⭐ 13043  
+   _This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems._
+
+14. [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) ⭐ 4725  
+   _Offline build planner for Path of Exile._
 
 
-<!-- Última actualización: 2025-06-10T08:06:05.023908 UTC -->
+<!-- Última actualización: 2025-06-11T08:06:02.438084 UTC -->
