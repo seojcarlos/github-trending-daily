@@ -1,46 +1,31 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-11
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-12
 
-1. [jwohlwend/boltz](https://github.com/jwohlwend/boltz) ⭐ 2557  
-   _Official repository for the Boltz biomolecular interaction models_
+1. [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 366316  
+   _😎 Awesome lists about all kinds of interesting topics_
 
-2. [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) ⭐ 6476  
-   _TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models._
+2. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 35681  
+   _Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models._
 
-3. [alphacep/vosk-api](https://github.com/alphacep/vosk-api) ⭐ 11588  
+3. [alphacep/vosk-api](https://github.com/alphacep/vosk-api) ⭐ 11922  
    _Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node_
 
-4. [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) ⭐ 7770  
-   _List of free GPTs that doesn't require plus subscription_
+4. [jwohlwend/boltz](https://github.com/jwohlwend/boltz) ⭐ 2719  
+   _Official repository for the Boltz biomolecular interaction models_
 
-5. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 57764  
-   _🐙 Guides, papers, lecture, notebooks and resources for prompt engineering_
+5. [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) ⭐ 4305  
+   _This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!_
 
-6. [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) ⭐ 8327  
-   _The Fully Customizable Desktop Environment for Windows 10/11._
-
-7. [ourongxing/newsnow](https://github.com/ourongxing/newsnow) ⭐ 10946  
-   _Elegant reading of real-time and hottest news_
-
-8. [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) ⭐ 16824  
+6. [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) ⭐ 17208  
    _健康学习到150岁 - 人体系统调优不完全指南_
 
-9. [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) ⭐ 17069  
+7. [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) ⭐ 17474  
    _《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程_
 
-10. [XTLS/Xray-core](https://github.com/XTLS/Xray-core) ⭐ 29207  
-   _Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses._
+8. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 20716  
+   _An open source payments switch written in Rust to make payments fast, reliable and affordable_
 
-11. [YaLTeR/niri](https://github.com/YaLTeR/niri) ⭐ 8118  
-   _A scrollable-tiling Wayland compositor._
-
-12. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 52952  
-   _Model Context Protocol Servers_
-
-13. [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) ⭐ 13043  
-   _This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems._
-
-14. [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) ⭐ 4725  
-   _Offline build planner for Path of Exile._
+9. [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) ⭐ 7863  
+   _MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips_
 
 
-<!-- Última actualización: 2025-06-11T08:06:02.438084 UTC -->
+<!-- Última actualización: 2025-06-12T08:05:58.116895 UTC -->
