@@ -1,52 +1,49 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-20
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-21
 
-1. [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) ⭐ 31791  
+1. [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) ⭐ 32948  
    _This is a repo with links to everything you'd ever want to learn about data engineering_
 
-2. [menloresearch/jan](https://github.com/menloresearch/jan) ⭐ 32333  
-   _Jan is an open source alternative to ChatGPT that runs 100% offline on your computer_
-
-3. [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) ⭐ 10801  
+2. [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) ⭐ 10998  
    _A cross-platform, reimplementation of Notepad++_
 
-4. [automatisch/automatisch](https://github.com/automatisch/automatisch) ⭐ 11051  
+3. [automatisch/automatisch](https://github.com/automatisch/automatisch) ⭐ 11251  
    _The open source Zapier alternative. Build workflow automation without spending time and money._
 
-5. [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) ⭐ 8900  
-   _Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft._
-
-6. [kortix-ai/suna](https://github.com/kortix-ai/suna) ⭐ 14946  
-   _Suna - Open Source Generalist AI Agent_
-
-7. [cloudflare/ai](https://github.com/cloudflare/ai) ⭐ 484  
-   __
-
-8. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) ⭐ 85338  
-   _Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions_
-
-9. [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) ⭐ 8131  
-   _DeepEP: an efficient expert-parallel communication library_
-
-10. [php/frankenphp](https://github.com/php/frankenphp) ⭐ 8824  
+4. [php/frankenphp](https://github.com/php/frankenphp) ⭐ 8961  
    _🧟 The modern PHP app server_
 
-11. [ollama/ollama](https://github.com/ollama/ollama) ⭐ 144264  
-   _Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models._
+5. [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) ⭐ 458  
+   _Experimental menu for GTA 5: Enhanced_
 
-12. [vllm-project/vllm](https://github.com/vllm-project/vllm) ⭐ 50215  
+6. [grafana/loki](https://github.com/grafana/loki) ⭐ 25788  
+   _Like Prometheus, but for logs._
+
+7. [Mail-0/Zero](https://github.com/Mail-0/Zero) ⭐ 8342  
+   _Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0_
+
+8. [vllm-project/vllm](https://github.com/vllm-project/vllm) ⭐ 50345  
    _A high-throughput and memory-efficient inference and serving engine for LLMs_
 
-13. [espressif/esp-idf](https://github.com/espressif/esp-idf) ⭐ 15577  
-   _Espressif IoT Development Framework. Official development framework for Espressif SoCs._
+9. [gabime/spdlog](https://github.com/gabime/spdlog) ⭐ 26468  
+   _Fast C++ logging library._
 
-14. [firebase/genkit](https://github.com/firebase/genkit) ⭐ 2277  
-   _An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms._
+10. [n8n-io/n8n](https://github.com/n8n-io/n8n) ⭐ 109822  
+   _Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations._
 
-15. [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) ⭐ 16305  
+11. [ManimCommunity/manim](https://github.com/ManimCommunity/manim) ⭐ 32559  
+   _A community-maintained Python framework for creating mathematical animations._
+
+12. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 51825  
+   _Implement a ChatGPT-like LLM in PyTorch from scratch, step by step_
+
+13. [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) ⭐ 16521  
    _A collection of notebooks/recipes showcasing some fun and effective ways of using Claude._
 
-16. [MystenLabs/sui](https://github.com/MystenLabs/sui) ⭐ 7118  
-   _Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language_
+14. [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) ⭐ 9630  
+   _The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows._
+
+15. [moby/buildkit](https://github.com/moby/buildkit) ⭐ 9062  
+   _concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit_
 
 
-<!-- Última actualización: 2025-06-20T08:05:50.481026 UTC -->
+<!-- Última actualización: 2025-06-21T08:04:55.459664 UTC -->
