@@ -1,49 +1,40 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-21
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-22
 
-1. [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) ⭐ 32948  
-   _This is a repo with links to everything you'd ever want to learn about data engineering_
+1. [typst/typst](https://github.com/typst/typst) ⭐ 42492  
+   _A new markup-based typesetting system that is powerful and easy to learn._
 
-2. [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) ⭐ 10998  
+2. [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 11119  
+   _In-depth tutorials on LLMs, RAGs and real-world AI agent applications._
+
+3. [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) ⭐ 11167  
    _A cross-platform, reimplementation of Notepad++_
 
-3. [automatisch/automatisch](https://github.com/automatisch/automatisch) ⭐ 11251  
-   _The open source Zapier alternative. Build workflow automation without spending time and money._
+4. [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) ⭐ 33350  
+   _This is a repo with links to everything you'd ever want to learn about data engineering_
 
-4. [php/frankenphp](https://github.com/php/frankenphp) ⭐ 8961  
-   _🧟 The modern PHP app server_
-
-5. [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) ⭐ 458  
-   _Experimental menu for GTA 5: Enhanced_
-
-6. [grafana/loki](https://github.com/grafana/loki) ⭐ 25788  
-   _Like Prometheus, but for logs._
-
-7. [Mail-0/Zero](https://github.com/Mail-0/Zero) ⭐ 8342  
-   _Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0_
-
-8. [vllm-project/vllm](https://github.com/vllm-project/vllm) ⭐ 50345  
-   _A high-throughput and memory-efficient inference and serving engine for LLMs_
-
-9. [gabime/spdlog](https://github.com/gabime/spdlog) ⭐ 26468  
-   _Fast C++ logging library._
-
-10. [n8n-io/n8n](https://github.com/n8n-io/n8n) ⭐ 109822  
-   _Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations._
-
-11. [ManimCommunity/manim](https://github.com/ManimCommunity/manim) ⭐ 32559  
-   _A community-maintained Python framework for creating mathematical animations._
-
-12. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 51825  
+5. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 52302  
    _Implement a ChatGPT-like LLM in PyTorch from scratch, step by step_
 
-13. [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) ⭐ 16521  
-   _A collection of notebooks/recipes showcasing some fun and effective ways of using Claude._
+6. [DrKLO/Telegram](https://github.com/DrKLO/Telegram) ⭐ 26364  
+   _Telegram for Android source_
 
-14. [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) ⭐ 9630  
+7. [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) ⭐ 9737  
+   _Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase_
+
+8. [ourongxing/newsnow](https://github.com/ourongxing/newsnow) ⭐ 11483  
+   _Elegant reading of real-time and hottest news_
+
+9. [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) ⭐ 9824  
    _The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows._
 
-15. [moby/buildkit](https://github.com/moby/buildkit) ⭐ 9062  
-   _concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit_
+10. [unionlabs/union](https://github.com/unionlabs/union) ⭐ 68096  
+   _The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance._
+
+11. [n8n-io/n8n](https://github.com/n8n-io/n8n) ⭐ 110310  
+   _Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations._
+
+12. [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) ⭐ 14192  
+   __
 
 
-<!-- Última actualización: 2025-06-21T08:04:55.459664 UTC -->
+<!-- Última actualización: 2025-06-22T08:05:19.615434 UTC -->
