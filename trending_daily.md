@@ -1,55 +1,46 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-27
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-28
 
-1. [microsoft/edit](https://github.com/microsoft/edit) ⭐ 10807  
-   _We all edit._
+1. [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) ⭐ 2777  
+   _All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!_
 
-2. [mui/base-ui](https://github.com/mui/base-ui) ⭐ 3875  
-   _Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI._
+2. [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 375157  
+   _😎 Awesome lists about all kinds of interesting topics_
 
-3. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 20924  
+3. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 21166  
    _Find secrets with Gitleaks 🔑_
 
-4. [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) ⭐ 1755  
-   _A community driven registry service for Model Context Protocol (MCP) servers._
-
-5. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 58076  
-   _A collection of MCP servers._
-
-6. [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) ⭐ 10833  
-   _Collection of leaked system prompts_
-
-7. [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐ 29302  
+4. [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐ 29724  
    _Building a modern alternative to Salesforce, powered by the community._
 
-8. [nexus-xyz/nexus-cli](https://github.com/nexus-xyz/nexus-cli) ⭐ 795  
-   _Command line interface for supplying proofs to the Nexus network._
+5. [black-forest-labs/flux](https://github.com/black-forest-labs/flux) ⭐ 22842  
+   _Official inference repo for FLUX.1 models_
 
-9. [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ⭐ 38432  
+6. [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) ⭐ 11025  
+   _Collection of leaked system prompts_
+
+7. [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) ⭐ 928  
+   _A fully open source framework for creating RL training swarms over the internet._
+
+8. [rxi/microui](https://github.com/rxi/microui) ⭐ 4454  
+   _A tiny immediate-mode UI library_
+
+9. [automatisch/automatisch](https://github.com/automatisch/automatisch) ⭐ 12176  
+   _The open source Zapier alternative. Build workflow automation without spending time and money._
+
+10. [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ⭐ 38593  
    _✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs._
 
-10. [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) ⭐ 28989  
-   _Fullstack app framework for web, desktop, and mobile._
-
-11. [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) ⭐ 8397  
-   _A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API._
-
-12. [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) ⭐ 21278  
-   _🏆 A ranked list of awesome machine learning Python libraries. Updated weekly._
-
-13. [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 73194  
-   _12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all_
-
-14. [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) ⭐ 15156  
-   _Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking._
-
-15. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 86083  
-   _21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/_
-
-16. [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⭐ 69065  
+11. [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⭐ 69392  
    _🔗 Some useful websites for programmers._
 
-17. [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 100990  
+12. [mui/base-ui](https://github.com/mui/base-ui) ⭐ 4196  
+   _Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI._
+
+13. [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 101347  
    _A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev_
 
+14. [cline/cline](https://github.com/cline/cline) ⭐ 46541  
+   _Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way._
 
-<!-- Última actualización: 2025-06-27T08:05:47.049952 UTC -->
+
+<!-- Última actualización: 2025-06-28T08:05:17.367751 UTC -->
