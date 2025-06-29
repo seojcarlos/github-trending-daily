@@ -1,46 +1,49 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-28
+# ⭐ Top 20 repositorios populares en GitHub - 2025-06-29
 
-1. [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) ⭐ 2777  
-   _All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!_
-
-2. [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 375157  
-   _😎 Awesome lists about all kinds of interesting topics_
-
-3. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 21166  
-   _Find secrets with Gitleaks 🔑_
-
-4. [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐ 29724  
+1. [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐ 30645  
    _Building a modern alternative to Salesforce, powered by the community._
 
-5. [black-forest-labs/flux](https://github.com/black-forest-labs/flux) ⭐ 22842  
+2. [black-forest-labs/flux](https://github.com/black-forest-labs/flux) ⭐ 22931  
    _Official inference repo for FLUX.1 models_
 
-6. [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) ⭐ 11025  
-   _Collection of leaked system prompts_
+3. [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) ⭐ 13865  
+   _2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow._
 
-7. [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) ⭐ 928  
-   _A fully open source framework for creating RL training swarms over the internet._
+4. [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) ⭐ 1921  
+   _BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats._
 
-8. [rxi/microui](https://github.com/rxi/microui) ⭐ 4454  
-   _A tiny immediate-mode UI library_
+5. [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) ⭐ 2959  
+   _All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!_
 
-9. [automatisch/automatisch](https://github.com/automatisch/automatisch) ⭐ 12176  
-   _The open source Zapier alternative. Build workflow automation without spending time and money._
+6. [rommapp/romm](https://github.com/rommapp/romm) ⭐ 5081  
+   _A beautiful, powerful, self-hosted rom manager and player._
 
-10. [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ⭐ 38593  
-   _✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs._
+7. [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) ⭐ 5812  
+   _Visualize embedded device data._
 
-11. [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⭐ 69392  
-   _🔗 Some useful websites for programmers._
+8. [midday-ai/midday](https://github.com/midday-ai/midday) ⭐ 8235  
+   _Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers_
 
-12. [mui/base-ui](https://github.com/mui/base-ui) ⭐ 4196  
-   _Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI._
+9. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 86458  
+   _21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/_
 
-13. [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 101347  
-   _A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev_
+10. [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) ⭐ 34043  
+   _Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more._
 
-14. [cline/cline](https://github.com/cline/cline) ⭐ 46541  
-   _Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way._
+11. [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 66393  
+   _A list of useful payloads and bypass for Web Application Security and Pentest/CTF_
+
+12. [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ⭐ 5411  
+   _Kubernetes controller for GitHub Actions self-hosted runners_
+
+13. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 25030  
+   _Comfortably monitor your Internet traffic 🕵️‍♂️_
+
+14. [google-gemini/cookbook](https://github.com/google-gemini/cookbook) ⭐ 13787  
+   _Examples and guides for using the Gemini API_
+
+15. [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) ⭐ 13302  
+   _🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition._
 
 
-<!-- Última actualización: 2025-06-28T08:05:17.367751 UTC -->
+<!-- Última actualización: 2025-06-29T08:05:05.046489 UTC -->
