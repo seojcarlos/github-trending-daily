@@ -1,52 +1,55 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-06-30
+# ⭐ Top 20 repositorios populares en GitHub - 2025-07-01
 
-1. [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐ 31801  
+1. [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) ⭐ 16559  
+   _An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing_
+
+2. [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐ 32398  
    _Building a modern alternative to Salesforce, powered by the community._
 
-2. [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) ⭐ 14861  
-   _2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow._
+3. [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) ⭐ 7253  
+   _📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance._
 
-3. [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) ⭐ 341  
+4. [midday-ai/midday](https://github.com/midday-ai/midday) ⭐ 8545  
+   _Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers_
+
+5. [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) ⭐ 423  
    __
 
-4. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 86819  
+6. [actualbudget/actual](https://github.com/actualbudget/actual) ⭐ 19701  
+   _A local-first personal finance app_
+
+7. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 87177  
    _21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/_
 
-5. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 63272  
-   _FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models._
-
-6. [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) ⭐ 3113  
-   _All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!_
-
-7. [stanford-oval/storm](https://github.com/stanford-oval/storm) ⭐ 25352  
-   _An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations._
-
-8. [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) ⭐ 4670  
-   _A visual no-code theme editor for shadcn/ui components_
-
-9. [mendableai/firecrawl](https://github.com/mendableai/firecrawl) ⭐ 41162  
+8. [mendableai/firecrawl](https://github.com/mendableai/firecrawl) ⭐ 41457  
    _🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API._
 
-10. [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) ⭐ 22836  
-   _Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI_
-
-11. [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) ⭐ 2210  
-   _BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats._
-
-12. [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 66597  
+9. [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 66833  
    _A list of useful payloads and bypass for Web Application Security and Pentest/CTF_
 
-13. [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) ⭐ 2523  
-   _b站会员购购票辅助工具_
+10. [stanford-oval/storm](https://github.com/stanford-oval/storm) ⭐ 25719  
+   _An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations._
 
-14. [m1k1o/neko](https://github.com/m1k1o/neko) ⭐ 11427  
-   _A self hosted virtual browser that runs in docker and uses WebRTC._
+11. [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) ⭐ 1277  
+   _API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP_
 
-15. [LMCache/LMCache](https://github.com/LMCache/LMCache) ⭐ 2262  
-   _Supercharge Your LLM with the Fastest KV Cache Layer_
+12. [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) ⭐ 2049  
+   _Gemini polling proxy service （gemini轮询代理服务）_
 
-16. [zyronon/typing-word](https://github.com/zyronon/typing-word) ⭐ 1997  
-   _在网页上背单词_
+13. [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ⭐ 28824  
+   _A community-supported supercharged document management system: scan, index and archive all your documents_
+
+14. [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) ⭐ 4149  
+   _Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more_
+
+15. [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships) ⭐ 5130  
+   _Collection of Summer 2026 tech internships!_
+
+16. [visgl/deck.gl](https://github.com/visgl/deck.gl) ⭐ 13236  
+   _WebGL2 powered visualization framework_
+
+17. [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) ⭐ 3218  
+   _All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!_
 
 
-<!-- Última actualización: 2025-06-30T08:06:10.461653 UTC -->
+<!-- Última actualización: 2025-07-01T08:05:53.547953 UTC -->
