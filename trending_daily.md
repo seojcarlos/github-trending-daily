@@ -1,52 +1,52 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-07-03
+# ⭐ Top 20 repositorios populares en GitHub - 2025-07-04
 
-1. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 90505  
-   _21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/_
-
-2. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 25147  
+1. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 25810  
    _小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫_
 
-3. [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) ⭐ 9060  
-   _Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3._
-
-4. [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) ⭐ 6308  
-   _A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource._
-
-5. [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) ⭐ 24582  
-   _Send push notifications to your phone or desktop using PUT/POST_
-
-6. [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) ⭐ 17902  
-   _An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing_
-
-7. [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) ⭐ 7830  
-   _A Collection of application ideas that can be used to improve your coding skills ❤._
-
-8. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 43160  
-   _所有小初高、大学PDF教材。_
-
-9. [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) ⭐ 27141  
-   _Docker container for managing Nginx proxy hosts with a simple, powerful interface_
-
-10. [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) ⭐ 2296  
-   _Gemini polling proxy service （gemini轮询代理服务）_
-
-11. [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) ⭐ 32188  
-   _Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere._
-
-12. [onlook-dev/onlook](https://github.com/onlook-dev/onlook) ⭐ 20132  
-   _The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI_
-
-13. [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7118  
-   _The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle._
-
-14. [openssl/openssl](https://github.com/openssl/openssl) ⭐ 27782  
-   _TLS/SSL and crypto library_
-
-15. [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) ⭐ 6258  
-   _Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!_
-
-16. [mrdoob/three.js](https://github.com/mrdoob/three.js) ⭐ 107121  
+2. [mrdoob/three.js](https://github.com/mrdoob/three.js) ⭐ 107306  
    _JavaScript 3D Library._
 
+3. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 91078  
+   _21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/_
 
-<!-- Última actualización: 2025-07-03T08:05:53.149769 UTC -->
+4. [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) ⭐ 44574  
+   _Truly independent web browser_
+
+5. [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) ⭐ 4222  
+   _Unified framework for robot learning built on NVIDIA Isaac Sim_
+
+6. [openssl/openssl](https://github.com/openssl/openssl) ⭐ 27875  
+   _TLS/SSL and crypto library_
+
+7. [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 25586  
+   _A generative world for general-purpose robotics & embodied AI learning._
+
+8. [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) ⭐ 35484  
+   _A curated list of free courses with certifications. Also available at https://free-certifications.com/_
+
+9. [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) ⭐ 8221  
+   _A Collection of application ideas that can be used to improve your coding skills ❤._
+
+10. [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 27568  
+   _Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project._
+
+11. [btjawa/BiliTools](https://github.com/btjawa/BiliTools) ⭐ 1843  
+   _A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源_
+
+12. [MotiaDev/motia](https://github.com/MotiaDev/motia) ⭐ 3226  
+   _Unified Backend Framework for APIs, Events, and AI Agents_
+
+13. [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) ⭐ 7492  
+   _📚 从零开始的大语言模型原理与实践教程_
+
+14. [llmware-ai/llmware](https://github.com/llmware-ai/llmware) ⭐ 14106  
+   _Unified framework for building enterprise RAG pipelines with small, specialized models_
+
+15. [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) ⭐ 27720  
+   _Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API._
+
+16. [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) ⭐ 24814  
+   _500 AI Machine learning Deep learning Computer vision NLP Projects with code_
+
+
+<!-- Última actualización: 2025-07-04T08:05:46.716770 UTC -->
