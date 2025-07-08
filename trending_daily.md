@@ -1,31 +1,34 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-07-07
+# ⭐ Top 20 repositorios populares en GitHub - 2025-07-08
 
-1. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 28060  
-   _小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫_
+1. [rustfs/rustfs](https://github.com/rustfs/rustfs) ⭐ 2730  
+   _🚀 High-performance distributed object storage for MinIO alternative._
 
-2. [dockur/macos](https://github.com/dockur/macos) ⭐ 14643  
-   _macOS inside a Docker container._
-
-3. [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) ⭐ 14949  
+2. [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) ⭐ 15501  
    _Anthropic's Interactive Prompt Engineering Tutorial_
 
-4. [vosen/ZLUDA](https://github.com/vosen/ZLUDA) ⭐ 12279  
-   _CUDA on non-NVIDIA GPUs_
+3. [th-ch/youtube-music](https://github.com/th-ch/youtube-music) ⭐ 25093  
+   _YouTube Music Desktop App bundled with custom plugins_
 
-5. [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 26695  
-   _Comfortably monitor your Internet traffic 🕵️‍♂️_
+4. [dockur/macos](https://github.com/dockur/macos) ⭐ 15168  
+   _macOS inside a Docker container._
 
-6. [Alex313031/thorium](https://github.com/Alex313031/thorium) ⭐ 6124  
-   _Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md._
+5. [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) ⭐ 48723  
+   _Open Source realtime backend in 1 file_
 
-7. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 396135  
-   _Master programming by recreating your favorite technologies from scratch._
+6. [commaai/openpilot](https://github.com/commaai/openpilot) ⭐ 54800  
+   _openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars._
 
-8. [iib0011/omni-tools](https://github.com/iib0011/omni-tools) ⭐ 4665  
-   _Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!_
+7. [smallcloudai/refact](https://github.com/smallcloudai/refact) ⭐ 2772  
+   _AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result._
 
-9. [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) ⭐ 6927  
-   _📘 Home Assistant User documentation_
+8. [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) ⭐ 6956  
+   _What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?_
+
+9. [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) ⭐ 2728  
+   _Repo to accompany my mastering LLM engineering course_
+
+10. [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) ⭐ 9204  
+   _Source Code for Sigma Web Development Course_
 
 
-<!-- Última actualización: 2025-07-07T08:06:12.541633 UTC -->
+<!-- Última actualización: 2025-07-08T08:05:57.978518 UTC -->
