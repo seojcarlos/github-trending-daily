@@ -1,5 +1,5 @@
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from collections import Counter
 import re
 
@@ -9,7 +9,7 @@ OUTPUT_FILE = "trending_weekly.md"
 DAYS = 7
 
 def get_last_n_days_files(n):
-    today = datetime.now(datetime.UTC)
+    today = datetime.now(timezone.utc)
     files = []
     if os.path.exists(HIST_DIR):
         for i in range(n):
