@@ -1,49 +1,49 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-07-16
+# ⭐ Top 20 repositorios populares en GitHub - 2025-07-17
 
-1. [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 63628  
+1. [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 65572  
    _Python tool for converting files and office documents to Markdown._
 
-2. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 68019  
-   _FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models._
+2. [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) ⭐ 21188  
+   _Chat with your documents on your local device using GPT models. No data leaves your device and 100% private._
 
-3. [getzep/graphiti](https://github.com/getzep/graphiti) ⭐ 13745  
-   _Build Real-Time Knowledge Graphs for AI Agents_
+3. [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) ⭐ 18346  
+   _插件化、定制化、无广告的免费音乐播放器_
 
-4. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) ⭐ 8051  
-   _CUDA Templates for Linear Algebra Subroutines_
-
-5. [frappe/erpnext](https://github.com/frappe/erpnext) ⭐ 26643  
+4. [frappe/erpnext](https://github.com/frappe/erpnext) ⭐ 26906  
    _Free and Open Source Enterprise Resource Planning (ERP)_
 
-6. [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) ⭐ 1695  
-   _Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi._
+5. [arc53/DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 16217  
+   _DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in._
 
-7. [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) ⭐ 4774  
-   _Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic._
-
-8. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) ⭐ 42837  
-   _Investment Research for Everyone, Everywhere._
-
-9. [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) ⭐ 34452  
-   _AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need_
-
-10. [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) ⭐ 6729  
-   _Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)_
-
-11. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 23423  
+6. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 23929  
    _Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands._
 
-12. [OpenPipe/ART](https://github.com/OpenPipe/ART) ⭐ 2403  
+7. [OpenPipe/ART](https://github.com/OpenPipe/ART) ⭐ 2788  
    _Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!_
 
-13. [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper) ⭐ 4522  
-   __
+8. [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) ⭐ 1204  
+   _✨ Agentic chat experience in your terminal. Build applications using natural language._
 
-14. [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ⭐ 39988  
-   _✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs._
+9. [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) ⭐ 1635  
+   _Undetectable Fast Portable VPN_
 
-15. [browserbase/stagehand](https://github.com/browserbase/stagehand) ⭐ 14209  
-   _The AI Browser Automation Framework_
+10. [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) ⭐ 6504  
+   _Build effective agents using Model Context Protocol and simple workflow patterns_
+
+11. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 93257  
+   _An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer._
+
+12. [vanna-ai/vanna](https://github.com/vanna-ai/vanna) ⭐ 19037  
+   _🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄._
+
+13. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8412  
+   _A command-line tool and Xcode Extension for formatting Swift code_
+
+14. [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) ⭐ 2429  
+   _KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook._
+
+15. [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) ⭐ 51004  
+   _The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model._
 
 
-<!-- Última actualización: 2025-07-16T08:05:55.480188 UTC -->
+<!-- Última actualización: 2025-07-17T08:06:06.881063 UTC -->
