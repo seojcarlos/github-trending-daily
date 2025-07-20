@@ -1,52 +1,58 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-07-19
+# ⭐ Top 20 repositorios populares en GitHub - 2025-07-20
 
-1. [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 68097  
-   _Python tool for converting files and office documents to Markdown._
-
-2. [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) ⭐ 5111  
-   __
-
-3. [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) ⭐ 51144  
-   _The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model._
-
-4. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) ⭐ 27243  
+1. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) ⭐ 27857  
    _Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks._
 
-5. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 22049  
-   _Find secrets with Gitleaks 🔑_
+2. [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) ⭐ 5354  
+   __
 
-6. [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 16572  
+3. [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) ⭐ 15356  
+   _Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams._
+
+4. [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) ⭐ 24630  
+   _PlayStation 4 emulator for Windows, Linux and macOS written in C++_
+
+5. [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 16882  
    _🕵️‍♂️ Collect a dossier on a person by username from thousands of sites_
 
-7. [arc53/DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 16493  
-   _DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in._
+6. [github/github-mcp-server](https://github.com/github/github-mcp-server) ⭐ 18070  
+   _GitHub's official MCP Server_
 
-8. [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) ⭐ 7311  
-   _Official repository for LTX-Video_
-
-9. [influxdata/telegraf](https://github.com/influxdata/telegraf) ⭐ 15859  
-   _Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data._
-
-10. [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) ⭐ 21613  
-   _Chat with your documents on your local device using GPT models. No data leaves your device and 100% private._
-
-11. [n8n-io/n8n](https://github.com/n8n-io/n8n) ⭐ 120579  
-   _Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations._
-
-12. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) ⭐ 32367  
+7. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) ⭐ 33014  
    _A list of semi to fully remote-friendly companies (jobs) in tech._
 
-13. [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8442  
-   _A command-line tool and Xcode Extension for formatting Swift code_
+8. [bknd-io/bknd](https://github.com/bknd-io/bknd) ⭐ 2626  
+   _Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more._
 
-14. [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) ⭐ 8379  
+9. [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) ⭐ 14701  
+   _Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course._
+
+10. [n8n-io/n8n](https://github.com/n8n-io/n8n) ⭐ 121150  
+   _Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations._
+
+11. [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 22223  
+   _Find secrets with Gitleaks 🔑_
+
+12. [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) ⭐ 8486  
    _A cute running cat animation on your windows taskbar._
 
-15. [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) ⭐ 11062  
-   _Agent Framework / shim to use Pydantic with LLMs_
+13. [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) ⭐ 7410  
+   _Official repository for LTX-Video_
 
-16. [strapi/strapi](https://github.com/strapi/strapi) ⭐ 68290  
+14. [strapi/strapi](https://github.com/strapi/strapi) ⭐ 68485  
    _🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first._
 
+15. [influxdata/telegraf](https://github.com/influxdata/telegraf) ⭐ 15939  
+   _Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data._
 
-<!-- Última actualización: 2025-07-19T08:05:24.172679 UTC -->
+16. [actions/runner-images](https://github.com/actions/runner-images) ⭐ 11532  
+   _GitHub Actions runner images_
+
+17. [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) ⭐ 2803  
+   _Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md_
+
+18. [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) ⭐ 746  
+   _llama.cpp fork with additional SOTA quants and improved performance_
+
+
+<!-- Última actualización: 2025-07-20T08:05:34.965793 UTC -->
