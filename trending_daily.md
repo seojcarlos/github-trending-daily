@@ -1,43 +1,40 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-07-26
+# ⭐ Top 20 repositorios populares en GitHub - 2025-07-27
 
-1. [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 9030  
-   _Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud._
-
-2. [m1k1o/neko](https://github.com/m1k1o/neko) ⭐ 13786  
-   _A self hosted virtual browser that runs in docker and uses WebRTC._
-
-3. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 22777  
-   _An open source payments switch written in Rust to make payments fast, reliable and affordable_
-
-4. [semgrep/semgrep](https://github.com/semgrep/semgrep) ⭐ 12319  
-   _Lightweight static analysis for many languages. Find bug variants with patterns that look like source code._
-
-5. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) ⭐ 46208  
-   _Investment Research for Everyone, Everywhere._
-
-6. [frappe/hrms](https://github.com/frappe/hrms) ⭐ 4366  
+1. [frappe/hrms](https://github.com/frappe/hrms) ⭐ 4699  
    _Open Source HR and Payroll Software_
 
-7. [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) ⭐ 8987  
-   _TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation._
+2. [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 9446  
+   _Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud._
 
-8. [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) ⭐ 9964  
-   _React Native's Animated library reimplemented_
+3. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 22904  
+   _An open source payments switch written in Rust to make payments fast, reliable and affordable_
 
-9. [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 9494  
-   _A curated list of modern Generative Artificial Intelligence projects and services_
+4. [m1k1o/neko](https://github.com/m1k1o/neko) ⭐ 14090  
+   _A self hosted virtual browser that runs in docker and uses WebRTC._
 
-10. [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) ⭐ 19799  
-   _Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions._
-
-11. [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) ⭐ 7793  
+5. [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) ⭐ 8022  
    _BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr_
 
-12. [moby/moby](https://github.com/moby/moby) ⭐ 70322  
-   _The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems_
+6. [keycloak/keycloak](https://github.com/keycloak/keycloak) ⭐ 28648  
+   _Open Source Identity and Access Management For Modern Applications and Services_
 
-13. [twbs/bootstrap](https://github.com/twbs/bootstrap) ⭐ 172707  
-   _The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web._
+7. [BerriAI/litellm](https://github.com/BerriAI/litellm) ⭐ 26289  
+   _Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]_
+
+8. [Infisical/infisical](https://github.com/Infisical/infisical) ⭐ 19216  
+   _Infisical is the open-source platform for secrets management, PKI, and SSH access._
+
+9. [confident-ai/deepeval](https://github.com/confident-ai/deepeval) ⭐ 9562  
+   _The LLM Evaluation Framework_
+
+10. [dataease/dataease](https://github.com/dataease/dataease) ⭐ 20839  
+   _🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau._
+
+11. [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) ⭐ 103620  
+   _✅ The Node.js best practices list (July 2024)_
+
+12. [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) ⭐ 23380  
+   _A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11._
 
 
-<!-- Última actualización: 2025-07-26T08:05:28.830389 UTC -->
+<!-- Última actualización: 2025-07-27T08:05:30.498993 UTC -->
