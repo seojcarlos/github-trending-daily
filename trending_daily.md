@@ -1,46 +1,40 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-08-01
+# ⭐ Top 20 repositorios populares en GitHub - 2025-08-02
 
-1. [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) ⭐ 3704  
-   __
-
-2. [stenzek/duckstation](https://github.com/stenzek/duckstation) ⭐ 8727  
-   _Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64_
-
-3. [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 3990  
-   _SkyReels-V2: Infinite-length Film Generative model_
-
-4. [OpenPipe/ART](https://github.com/OpenPipe/ART) ⭐ 4324  
+1. [OpenPipe/ART](https://github.com/OpenPipe/ART) ⭐ 4636  
    _Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!_
 
-5. [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) ⭐ 3647  
-   _The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing._
+2. [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) ⭐ 6817  
+   _Application for managing recipes, planning meals, building shopping lists and much much more!_
 
-6. [9001/copyparty](https://github.com/9001/copyparty) ⭐ 16896  
-   _Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps_
+3. [devlikeapro/waha](https://github.com/devlikeapro/waha) ⭐ 2649  
+   _WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)_
 
-7. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 91448  
+4. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 91569  
    _JavaScript API for Chrome and Firefox_
 
-8. [Canner/WrenAI](https://github.com/Canner/WrenAI) ⭐ 9313  
-   _⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds._
+5. [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) ⭐ 16346  
+   _The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️_
 
-9. [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) ⭐ 13587  
-   _A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind._
+6. [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) ⭐ 3178  
+   _Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation._
 
-10. [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) ⭐ 3834  
-   _Local-first AI Notepad for Private Meetings_
+7. [9001/copyparty](https://github.com/9001/copyparty) ⭐ 17866  
+   _Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps_
 
-11. [NemProject/nem](https://github.com/NemProject/nem) ⭐ 93  
-   _number go up 💹_
+8. [dyad-sh/dyad](https://github.com/dyad-sh/dyad) ⭐ 3282  
+   _Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!_
 
-12. [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) ⭐ 13646  
-   _⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place._
+9. [stenzek/duckstation](https://github.com/stenzek/duckstation) ⭐ 8841  
+   _Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64_
 
-13. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 94573  
-   _An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer._
+10. [playcanvas/editor](https://github.com/playcanvas/editor) ⭐ 557  
+   _Powerful visual editor environment for building WebGL, WebGPU, WebXR apps_
 
-14. [cloudwego/eino](https://github.com/cloudwego/eino) ⭐ 6174  
-   _The ultimate LLM/AI application development framework in Golang._
+11. [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) ⭐ 2484  
+   _Recommend new arxiv papers of your interest daily according to your Zotero libarary._
+
+12. [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) ⭐ 14393  
+   _Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组_
 
 
-<!-- Última actualización: 2025-08-01T08:06:25.535478 UTC -->
+<!-- Última actualización: 2025-08-02T08:05:26.398182 UTC -->
