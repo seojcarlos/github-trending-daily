@@ -1,55 +1,46 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-08-14
+# ⭐ Top 20 repositorios populares en GitHub - 2025-08-15
 
-1. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) ⭐ 8224  
+1. [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) ⭐ 9168  
    _Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services._
 
-2. [apple/embedding-atlas](https://github.com/apple/embedding-atlas) ⭐ 2044  
-   _Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata._
-
-3. [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) ⭐ 26449  
-   _Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application._
-
-4. [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) ⭐ 8278  
-   _Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!_
-
-5. [menloresearch/jan](https://github.com/menloresearch/jan) ⭐ 36839  
-   _Jan is an open source alternative to ChatGPT that runs 100% offline on your computer_
-
-6. [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) ⭐ 16155  
-   _The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra._
-
-7. [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) ⭐ 55836  
-   _A simple zero-config tool to make locally trusted development certificates with any names you'd like._
-
-8. [filamentphp/filament](https://github.com/filamentphp/filament) ⭐ 25609  
-   _A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire_
-
-9. [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) ⭐ 5650  
-   _OpenTelemetry Collector_
-
-10. [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 76321  
-   _GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use._
-
-11. [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ⭐ 25379  
-   _Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications_
-
-12. [microsoft/poml](https://github.com/microsoft/poml) ⭐ 1774  
+2. [microsoft/poml](https://github.com/microsoft/poml) ⭐ 2303  
    _Prompt Orchestration Markup Language_
 
-13. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 76172  
-   _FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models._
+3. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 31380  
+   _Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG._
 
-14. [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ⭐ 3833  
-   _Contrib repository for the OpenTelemetry Collector_
+4. [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ⭐ 5478  
+   _External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets._
 
-15. [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) ⭐ 36642  
-   _Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more._
+5. [redis/go-redis](https://github.com/redis/go-redis) ⭐ 21332  
+   _Redis Go client_
 
-16. [unslothai/notebooks](https://github.com/unslothai/notebooks) ⭐ 3338  
-   _100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more._
+6. [colmap/colmap](https://github.com/colmap/colmap) ⭐ 9303  
+   _COLMAP - Structure-from-Motion and Multi-View Stereo_
 
-17. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 239507  
-   _Curated list of project-based tutorials_
+7. [angular/components](https://github.com/angular/components) ⭐ 24850  
+   _Component infrastructure and Material Design components for Angular_
+
+8. [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) ⭐ 16374  
+   _The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra._
+
+9. [midday-ai/midday](https://github.com/midday-ai/midday) ⭐ 10560  
+   _Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers_
+
+10. [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ⭐ 25528  
+   _Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications_
+
+11. [hashicorp/terraform](https://github.com/hashicorp/terraform) ⭐ 46146  
+   _Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned._
+
+12. [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) ⭐ 5867  
+   _The ultimate training toolkit for finetuning diffusion models_
+
+13. [apple/embedding-atlas](https://github.com/apple/embedding-atlas) ⭐ 2485  
+   _Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata._
+
+14. [oop7/YTSage](https://github.com/oop7/YTSage) ⭐ 1684  
+   _Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance._
 
 
-<!-- Última actualización: 2025-08-14T08:06:01.759974 UTC -->
+<!-- Última actualización: 2025-08-15T08:06:21.182008 UTC -->
