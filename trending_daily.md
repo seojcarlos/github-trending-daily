@@ -1,40 +1,46 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-08-19
+# ⭐ Top 20 repositorios populares en GitHub - 2025-08-20
 
-1. [coleam00/Archon](https://github.com/coleam00/Archon) ⭐ 9353  
-   _Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants._
-
-2. [emcie-co/parlant](https://github.com/emcie-co/parlant) ⭐ 5842  
+1. [emcie-co/parlant](https://github.com/emcie-co/parlant) ⭐ 6916  
    _LLM agents built for control. Designed for real-world use. Deployed in minutes._
 
-3. [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) ⭐ 36877  
-   _This is a repo with links to everything you'd ever want to learn about data engineering_
+2. [coleam00/Archon](https://github.com/coleam00/Archon) ⭐ 9845  
+   _Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants._
 
-4. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 65348  
+3. [LMCache/LMCache](https://github.com/LMCache/LMCache) ⭐ 4862  
+   _Supercharge Your LLM with the Fastest KV Cache Layer_
+
+4. [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) ⭐ 9319  
+   _BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr_
+
+5. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 65896  
    _Implement a ChatGPT-like LLM in PyTorch from scratch, step by step_
 
-5. [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) ⭐ 9418  
-   _Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks._
+6. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) ⭐ 50625  
+   _Financial data platform for analysts, quants and AI agents._
 
-6. [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) ⭐ 4627  
-   _PixiEditor is a Universal Editor for all your 2D needs_
+7. [imsyy/SPlayer](https://github.com/imsyy/SPlayer) ⭐ 4861  
+   _🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player_
 
-7. [immich-app/immich](https://github.com/immich-app/immich) ⭐ 73416  
-   _High performance self-hosted photo and video management solution._
-
-8. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 59852  
+8. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 60427  
    _Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models._
 
-9. [MotiaDev/motia](https://github.com/MotiaDev/motia) ⭐ 6586  
-   _Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management._
+9. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) ⭐ 2276  
+   _Useful tool to track location or mobile number_
 
-10. [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) ⭐ 50357  
-   _Financial data aggregator for humans and AI agents._
+10. [immich-app/immich](https://github.com/immich-app/immich) ⭐ 73710  
+   _High performance self-hosted photo and video management solution._
 
-11. [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) ⭐ 1851  
-   _Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment._
+11. [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) ⭐ 4974  
+   _PixiEditor is a Universal Editor for all your 2D needs_
 
-12. [mfts/papermark](https://github.com/mfts/papermark) ⭐ 7283  
-   _Papermark is the open-source DocSend alternative with built-in analytics and custom domains._
+12. [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) ⭐ 7225  
+   __
+
+13. [HeyPuter/puter](https://github.com/HeyPuter/puter) ⭐ 35263  
+   _🌐 The Internet OS! Free, Open-Source, and Self-Hostable._
+
+14. [awslabs/mcp](https://github.com/awslabs/mcp) ⭐ 5857  
+   _AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP._
 
 
-<!-- Última actualización: 2025-08-19T08:05:58.490058 UTC -->
+<!-- Última actualización: 2025-08-20T08:05:45.382529 UTC -->
