@@ -1,46 +1,40 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-08-21
+# ⭐ Top 20 repositorios populares en GitHub - 2025-08-22
 
-1. [simstudioai/sim](https://github.com/simstudioai/sim) ⭐ 9066  
-   _Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools._
-
-2. [moeru-ai/airi](https://github.com/moeru-ai/airi) ⭐ 4367  
+1. [moeru-ai/airi](https://github.com/moeru-ai/airi) ⭐ 6128  
    _💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported._
 
-3. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 91925  
-   _JavaScript API for Chrome and Firefox_
+2. [simstudioai/sim](https://github.com/simstudioai/sim) ⭐ 10289  
+   _Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools._
 
-4. [bitwarden/clients](https://github.com/bitwarden/clients) ⭐ 10793  
+3. [google/googletest](https://github.com/google/googletest) ⭐ 36710  
+   _GoogleTest - Google Testing and Mocking Framework_
+
+4. [bitwarden/clients](https://github.com/bitwarden/clients) ⭐ 10950  
    _Bitwarden client apps (web, browser extension, desktop, and cli)._
 
-5. [Leantime/leantime](https://github.com/Leantime/leantime) ⭐ 6268  
-   _Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind._
+5. [Budibase/budibase](https://github.com/Budibase/budibase) ⭐ 25740  
+   _Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform.._
 
-6. [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) ⭐ 11764  
-   _The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows._
+6. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 50777  
+   _The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥_
 
-7. [MotiaDev/motia](https://github.com/MotiaDev/motia) ⭐ 6931  
-   _Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management._
+7. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) ⭐ 2760  
+   _Useful tool to track location or mobile number_
 
-8. [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) ⭐ 37165  
-   _This is a repo with links to everything you'd ever want to learn about data engineering_
+8. [nextjs/saas-starter](https://github.com/nextjs/saas-starter) ⭐ 13786  
+   _Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui._
 
-9. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 66622  
-   _Implement a ChatGPT-like LLM in PyTorch from scratch, step by step_
+9. [plait-board/drawnix](https://github.com/plait-board/drawnix) ⭐ 4975  
+   _开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc._
 
-10. [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) ⭐ 526  
-   _A benchmark for LLMs on complicated tasks in the terminal_
+10. [HeyPuter/puter](https://github.com/HeyPuter/puter) ⭐ 35577  
+   _🌐 The Internet OS! Free, Open-Source, and Self-Hostable._
 
-11. [ComposersDesktop/CDP8](https://github.com/ComposersDesktop/CDP8) ⭐ 380  
-   _New version of CDP software_
+11. [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 92053  
+   _JavaScript API for Chrome and Firefox_
 
-12. [epicenter-so/epicenter](https://github.com/epicenter-so/epicenter) ⭐ 2527  
-   _Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️_
-
-13. [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) ⭐ 5271  
-   _PixiEditor is a Universal Editor for all your 2D needs_
-
-14. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 20939  
-   _Official inference framework for 1-bit LLMs_
+12. [skills/introduction-to-github](https://github.com/skills/introduction-to-github) ⭐ 9491  
+   _Get started using GitHub in less than an hour._
 
 
-<!-- Última actualización: 2025-08-21T08:06:09.055962 UTC -->
+<!-- Última actualización: 2025-08-22T08:05:54.092367 UTC -->
