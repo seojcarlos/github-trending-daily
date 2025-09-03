@@ -1,46 +1,43 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-09-02
+# ⭐ Top 20 repositorios populares en GitHub - 2025-09-03
 
-1. [dockur/windows](https://github.com/dockur/windows) ⭐ 41747  
+1. [dockur/windows](https://github.com/dockur/windows) ⭐ 43542  
    _Windows inside a Docker container._
 
-2. [JetBrains/koog](https://github.com/JetBrains/koog) ⭐ 2516  
+2. [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) ⭐ 37247  
+   _Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks._
+
+3. [JetBrains/koog](https://github.com/JetBrains/koog) ⭐ 2716  
    _Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems_
 
-3. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 26277  
-   _An open source payments switch written in Rust to make payments fast, reliable and affordable_
-
-4. [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) ⭐ 5804  
-   _Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI._
-
-5. [activepieces/activepieces](https://github.com/activepieces/activepieces) ⭐ 17120  
-   _AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents_
-
-6. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 46288  
-   _Focus on prompting and generating_
-
-7. [laramies/theHarvester](https://github.com/laramies/theHarvester) ⭐ 14055  
-   _E-mails, subdomains and names Harvester - OSINT_
-
-8. [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) ⭐ 2007  
-   _HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling_
-
-9. [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ 11235  
-   _SoTA open-source TTS_
-
-10. [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) ⭐ 21044  
-   _MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone_
-
-11. [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 7822  
+4. [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 8838  
    _The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more._
 
-12. [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) ⭐ 9954  
-   _🧠 Cognitive Load is what matters_
+5. [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ⭐ 1047  
+   _More Expressive InstallerX !_
 
-13. [denizsafak/abogen](https://github.com/denizsafak/abogen) ⭐ 3341  
-   _Generate audiobooks from EPUBs, PDFs and text with synchronized captions._
+6. [google/mangle](https://github.com/google/mangle) ⭐ 2113  
+   __
 
-14. [bevyengine/bevy](https://github.com/bevyengine/bevy) ⭐ 41688  
-   _A refreshingly simple data-driven game engine built in Rust_
+7. [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ 11592  
+   _SoTA open-source TTS_
+
+8. [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ⭐ 18310  
+   _A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app_
+
+9. [LukeGus/Termix](https://github.com/LukeGus/Termix) ⭐ 2213  
+   _Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities._
+
+10. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 97266  
+   _An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer._
+
+11. [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) ⭐ 3811  
+   _Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment._
+
+12. [google/comprehensive-rust](https://github.com/google/comprehensive-rust) ⭐ 31481  
+   _This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust._
+
+13. [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ⭐ 10826  
+   _Community curated list of templates for the nuclei engine to find security vulnerabilities._
 
 
-<!-- Última actualización: 2025-09-02T08:05:59.147726 UTC -->
+<!-- Última actualización: 2025-09-03T08:05:57.195218 UTC -->
