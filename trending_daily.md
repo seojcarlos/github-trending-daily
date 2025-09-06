@@ -1,46 +1,49 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-09-05
+# ⭐ Top 20 repositorios populares en GitHub - 2025-09-06
 
-1. [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) ⭐ 4897  
+1. [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) ⭐ 5461  
    _Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment._
 
-2. [LukeGus/Termix](https://github.com/LukeGus/Termix) ⭐ 3030  
-   _Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities._
+2. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 21509  
+   _Official inference framework for 1-bit LLMs_
 
-3. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 97643  
-   _An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer._
-
-4. [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) ⭐ 37655  
-   _Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks._
-
-5. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 28399  
+3. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 28526  
    _Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more_
 
-6. [microsoft/PowerToys](https://github.com/microsoft/PowerToys) ⭐ 123246  
-   _Windows system utilities to maximize productivity_
-
-7. [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) ⭐ 19177  
-   _A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app_
-
-8. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 20622  
+4. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 20830  
    _Find, verify, and analyze leaked credentials_
 
-9. [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 28102  
-   _Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning._
+5. [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) ⭐ 17030  
+   _Xray、Tuic、hysteria2、sing-box 八合一一键脚本_
 
-10. [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) ⭐ 50524  
-   _Open Source realtime backend in 1 file_
+6. [nukeop/nuclear](https://github.com/nukeop/nuclear) ⭐ 14430  
+   _Streaming music player that finds free music for you_
 
-11. [weaviate/elysia](https://github.com/weaviate/elysia) ⭐ 1375  
-   _Python package and backend for the Elysia platform app._
+7. [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) ⭐ 5217  
+   _Evolution API is an open-source WhatsApp integration API_
 
-12. [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) ⭐ 1018  
-   _Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!_
+8. [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) ⭐ 4434  
+   _Awesome MCP Servers - A curated list of Model Context Protocol servers_
 
-13. [ansible/ansible](https://github.com/ansible/ansible) ⭐ 66284  
-   _Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com._
+9. [emcie-co/parlant](https://github.com/emcie-co/parlant) ⭐ 9024  
+   _LLM agents built for control. Designed for real-world use. Deployed in minutes._
 
-14. [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) ⭐ 10129  
-   _TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation._
+10. [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) ⭐ 3855  
+   _All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!_
+
+11. [kestra-io/kestra](https://github.com/kestra-io/kestra) ⭐ 20892  
+   _⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation._
+
+12. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 17393  
+   _FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace._
+
+13. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 48526  
+   _所有小初高、大学PDF教材。_
+
+14. [apache/airflow](https://github.com/apache/airflow) ⭐ 42051  
+   _Apache Airflow - A platform to programmatically author, schedule, and monitor workflows_
+
+15. [wazuh/wazuh](https://github.com/wazuh/wazuh) ⭐ 13377  
+   _Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads._
 
 
-<!-- Última actualización: 2025-09-05T08:05:36.153214 UTC -->
+<!-- Última actualización: 2025-09-06T08:04:36.927913 UTC -->
