@@ -1,49 +1,43 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-09-06
+# ⭐ Top 20 repositorios populares en GitHub - 2025-09-07
 
-1. [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) ⭐ 5461  
-   _Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment._
+1. [zama-ai/fhevm](https://github.com/zama-ai/fhevm) ⭐ 17306  
+   _FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications_
 
-2. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 21509  
-   _Official inference framework for 1-bit LLMs_
-
-3. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 28526  
+2. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 28649  
    _Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more_
 
-4. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 20830  
+3. [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 21073  
    _Find, verify, and analyze leaked credentials_
 
-5. [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) ⭐ 17030  
-   _Xray、Tuic、hysteria2、sing-box 八合一一键脚本_
+4. [rails/rails](https://github.com/rails/rails) ⭐ 57499  
+   _Ruby on Rails_
 
-6. [nukeop/nuclear](https://github.com/nukeop/nuclear) ⭐ 14430  
-   _Streaming music player that finds free music for you_
+5. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 21624  
+   _Official inference framework for 1-bit LLMs_
 
-7. [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) ⭐ 5217  
-   _Evolution API is an open-source WhatsApp integration API_
-
-8. [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) ⭐ 4434  
-   _Awesome MCP Servers - A curated list of Model Context Protocol servers_
-
-9. [emcie-co/parlant](https://github.com/emcie-co/parlant) ⭐ 9024  
-   _LLM agents built for control. Designed for real-world use. Deployed in minutes._
-
-10. [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) ⭐ 3855  
+6. [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) ⭐ 3948  
    _All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!_
 
-11. [kestra-io/kestra](https://github.com/kestra-io/kestra) ⭐ 20892  
-   _⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation._
+7. [emcie-co/parlant](https://github.com/emcie-co/parlant) ⭐ 9283  
+   _LLM agents built for control. Designed for real-world use. Deployed in minutes._
 
-12. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 17393  
-   _FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace._
+8. [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) ⭐ 17123  
+   _Xray、Tuic、hysteria2、sing-box 八合一一键脚本_
 
-13. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 48526  
-   _所有小初高、大学PDF教材。_
+9. [quarkusio/quarkus](https://github.com/quarkusio/quarkus) ⭐ 14937  
+   _Quarkus: Supersonic Subatomic Java._
 
-14. [apache/airflow](https://github.com/apache/airflow) ⭐ 42051  
+10. [apache/airflow](https://github.com/apache/airflow) ⭐ 42181  
    _Apache Airflow - A platform to programmatically author, schedule, and monitor workflows_
 
-15. [wazuh/wazuh](https://github.com/wazuh/wazuh) ⭐ 13377  
-   _Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads._
+11. [apple/embedding-atlas](https://github.com/apple/embedding-atlas) ⭐ 3638  
+   _Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata._
+
+12. [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) ⭐ 3749  
+   _Distributed query engine providing simple and reliable data processing for any modality and scale_
+
+13. [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 65344  
+   _#1 Locally hosted web application that allows you to perform various operations on PDF files_
 
 
-<!-- Última actualización: 2025-09-06T08:04:36.927913 UTC -->
+<!-- Última actualización: 2025-09-07T08:04:39.188887 UTC -->
