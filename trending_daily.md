@@ -1,61 +1,61 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-09-12
+# ⭐ Top 20 repositorios populares en GitHub - 2025-09-13
 
-1. [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) ⭐ 6742  
-   __
-
-2. [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) ⭐ 3754  
-   _A community driven registry service for Model Context Protocol (MCP) servers._
-
-3. [twitter/the-algorithm](https://github.com/twitter/the-algorithm) ⭐ 66188  
-   _Source code for the X Recommendation Algorithm_
-
-4. [google/material-design-icons](https://github.com/google/material-design-icons) ⭐ 52179  
-   _Material Design icons by Google (Material Symbols)_
-
-5. [ccfos/nightingale](https://github.com/ccfos/nightingale) ⭐ 11865  
-   _Nightingale for monitoring and alerting, just as Grafana for visualization._
-
-6. [mxrch/GHunt](https://github.com/mxrch/GHunt) ⭐ 17703  
-   _🕵️‍♂️ Offensive Google framework._
-
-7. [agno-agi/agno](https://github.com/agno-agi/agno) ⭐ 33262  
-   _High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud._
-
-8. [trueadm/ripple](https://github.com/trueadm/ripple) ⭐ 3046  
+1. [trueadm/ripple](https://github.com/trueadm/ripple) ⭐ 3924  
    _the elegant TypeScript UI framework_
 
-9. [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) ⭐ 10336  
-   _BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr_
+2. [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) ⭐ 7204  
+   __
 
-10. [MotiaDev/motia](https://github.com/MotiaDev/motia) ⭐ 8149  
-   _Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management._
+3. [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) ⭐ 1250  
+   _Generate code from the terminal!_
 
-11. [heroui-inc/heroui](https://github.com/heroui-inc/heroui) ⭐ 26118  
-   _🚀 Beautiful, fast and modern React UI library. (Previously NextUI)_
+4. [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) ⭐ 1726  
+   _Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems._
 
-12. [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) ⭐ 6205  
-   _Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!_
+5. [firebase/genkit](https://github.com/firebase/genkit) ⭐ 3210  
+   _An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms._
 
-13. [epfml/ML_course](https://github.com/epfml/ML_course) ⭐ 1525  
-   _EPFL Machine Learning Course, Fall 2025_
-
-14. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 60326  
-   _Ghidra is a software reverse engineering (SRE) framework_
-
-15. [supabase/supabase](https://github.com/supabase/supabase) ⭐ 88508  
-   _The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications._
-
-16. [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) ⭐ 5171  
-   _This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python._
-
-17. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 83734  
-   _FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models._
-
-18. [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) ⭐ 28734  
+6. [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) ⭐ 29196  
    _all of the workflows of n8n i could find (also from the site itself)_
 
-19. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 49371  
-   _所有小初高、大学PDF教材。_
+7. [epfml/ML_course](https://github.com/epfml/ML_course) ⭐ 1692  
+   _EPFL Machine Learning Course, Fall 2025_
+
+8. [expo/expo](https://github.com/expo/expo) ⭐ 43236  
+   _An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web._
+
+9. [NVIDIA/garak](https://github.com/NVIDIA/garak) ⭐ 5506  
+   _the LLM vulnerability scanner_
+
+10. [milvus-io/milvus](https://github.com/milvus-io/milvus) ⭐ 37260  
+   _Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search_
+
+11. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 69871  
+   _A collection of MCP servers._
+
+12. [livekit/livekit](https://github.com/livekit/livekit) ⭐ 14708  
+   _End-to-end realtime stack for connecting humans and AI_
+
+13. [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) ⭐ 5251  
+   _This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python._
+
+14. [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ⭐ 27900  
+   _人人都能用英语_
+
+15. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 336224  
+   _Interactive roadmaps, guides and other educational content to help developers grow in their careers._
+
+16. [grpc/grpc-go](https://github.com/grpc/grpc-go) ⭐ 22224  
+   _The Go language implementation of gRPC. HTTP/2 based RPC_
+
+17. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) ⭐ 48503  
+   _PowerShell for every system!_
+
+18. [kyverno/kyverno](https://github.com/kyverno/kyverno) ⭐ 6849  
+   _Cloud Native Policy Management_
+
+19. [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) ⭐ 3962  
+   _A community driven registry service for Model Context Protocol (MCP) servers._
 
 
-<!-- Última actualización: 2025-09-12T08:05:29.774761 UTC -->
+<!-- Última actualización: 2025-09-13T08:05:10.857701 UTC -->
