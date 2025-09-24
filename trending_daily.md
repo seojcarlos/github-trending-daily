@@ -1,58 +1,58 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-09-23
+# ⭐ Top 20 repositorios populares en GitHub - 2025-09-24
 
-1. [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) ⭐ 15865  
-   _🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC._
+1. [gin-gonic/gin](https://github.com/gin-gonic/gin) ⭐ 84474  
+   _Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices._
 
-2. [bevyengine/bevy](https://github.com/bevyengine/bevy) ⭐ 42184  
-   _A refreshingly simple data-driven game engine built in Rust_
+2. [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) ⭐ 48418  
+   _Truly independent web browser_
 
-3. [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ⭐ 13978  
-   _Tongyi Deep Research, the Leading Open-source Deep Research Agent_
+3. [gofiber/fiber](https://github.com/gofiber/fiber) ⭐ 37854  
+   _⚡️ Express inspired web framework written in Go_
 
-4. [tldraw/tldraw](https://github.com/tldraw/tldraw) ⭐ 42554  
-   _very good whiteboard SDK / infinite canvas SDK_
-
-5. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 74000  
-   _Free and Open Source, Distributed, RESTful Search Engine_
-
-6. [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 29160  
-   _Self-hosted game stream host for Moonlight._
-
-7. [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) ⭐ 137805  
-   _Command-line program to download videos from YouTube.com and other video sites_
-
-8. [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) ⭐ 4052  
-   _Minecraft AI with LLMs+Mineflayer_
-
-9. [eslint/eslint](https://github.com/eslint/eslint) ⭐ 26384  
+4. [eslint/eslint](https://github.com/eslint/eslint) ⭐ 26472  
    _Find and fix problems in your JavaScript code._
 
-10. [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐ 49638  
-   _⭐️ Companies that don't have a broken hiring process_
+5. [fmtlib/fmt](https://github.com/fmtlib/fmt) ⭐ 22564  
+   _A modern formatting library_
 
-11. [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 156744  
-   _Stable Diffusion web UI_
+6. [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 91013  
+   _A collection of (mostly) technical things every software developer should know about_
 
-12. [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 130168  
-   _💯 Curated coding interview preparation materials for busy software engineers_
+7. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) ⭐ 87100  
+   _Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions_
 
-13. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 369817  
+8. [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 26406  
+   _OpenZeppelin Contracts is a library for secure smart contract development._
+
+9. [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) ⭐ 17666  
+   _🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC._
+
+10. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 370176  
    _📚 Freely available programming books_
 
-14. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 46594  
-   _Focus on prompting and generating_
+11. [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) ⭐ 3289  
+   _大麦自动抢票，支持人员、城市、日期场次、价格选择_
 
-15. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 320694  
-   _Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards._
+12. [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) ⭐ 2985  
+   _[NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat_
 
-16. [ziglang/zig](https://github.com/ziglang/zig) ⭐ 41215  
-   _General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software._
+13. [foundry-rs/foundry](https://github.com/foundry-rs/foundry) ⭐ 9537  
+   _Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust._
 
-17. [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) ⭐ 42646  
-   _Free, open source crypto trading bot_
+14. [microsoft/TypeScript](https://github.com/microsoft/TypeScript) ⭐ 106115  
+   _TypeScript is a superset of JavaScript that compiles to clean JavaScript output._
 
-18. [winfunc/opcode](https://github.com/winfunc/opcode) ⭐ 17212  
-   _A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more._
+15. [helm/helm](https://github.com/helm/helm) ⭐ 28561  
+   _The Kubernetes Package Manager_
+
+16. [tldraw/tldraw](https://github.com/tldraw/tldraw) ⭐ 42766  
+   _very good whiteboard SDK / infinite canvas SDK_
+
+17. [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) ⭐ 7614  
+   _node of the decentralized oracle network, bridging on and off-chain computation_
+
+18. [Kludex/uvicorn](https://github.com/Kludex/uvicorn) ⭐ 9784  
+   _An ASGI web server, for Python. 🦄_
 
 
-<!-- Última actualización: 2025-09-23T08:05:45.605934 UTC -->
+<!-- Última actualización: 2025-09-24T08:05:59.842600 UTC -->
