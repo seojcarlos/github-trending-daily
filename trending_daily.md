@@ -1,55 +1,52 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-09-25
+# ⭐ Top 20 repositorios populares en GitHub - 2025-09-26
 
-1. [cloudflare/capnweb](https://github.com/cloudflare/capnweb) ⭐ 2157  
-   _JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system_
-
-2. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 74546  
-   _Free and Open Source, Distributed, RESTful Search Engine_
-
-3. [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) ⭐ 48655  
-   _Truly independent web browser_
-
-4. [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) ⭐ 5791  
-   _"RAG-Anything: All-in-One RAG Framework"_
-
-5. [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) ⭐ 46150  
-   _Ultralytics YOLO 🚀_
-
-6. [istio/istio](https://github.com/istio/istio) ⭐ 37411  
-   _Connect, secure, control, and observe services._
-
-7. [gin-gonic/gin](https://github.com/gin-gonic/gin) ⭐ 85017  
+1. [gin-gonic/gin](https://github.com/gin-gonic/gin) ⭐ 85702  
    _Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices._
 
-8. [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) ⭐ 43034  
-   _Free, open source crypto trading bot_
+2. [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) ⭐ 3060  
+   _The best way to get AI to solve hard problems in complex codebases._
 
-9. [bytedance/Dolphin](https://github.com/bytedance/Dolphin) ⭐ 6569  
-   _The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025._
+3. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 127990  
+   _A feature-rich command-line audio/video downloader_
 
-10. [aliasrobotics/cai](https://github.com/aliasrobotics/cai) ⭐ 4317  
-   _Cybersecurity AI (CAI), the framework for AI Security_
+4. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) ⭐ 209233  
+   _All Algorithms implemented in Python_
 
-11. [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) ⭐ 18140  
-   _🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC._
+5. [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ⭐ 29462  
+   _人人都能用英语_
 
-12. [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 91913  
-   _A collection of (mostly) technical things every software developer should know about_
+6. [Olow304/memvid](https://github.com/Olow304/memvid) ⭐ 9091  
+   _Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed._
 
-13. [solana-labs/solana](https://github.com/solana-labs/solana) ⭐ 14511  
-   _Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces._
+7. [TanStack/router](https://github.com/TanStack/router) ⭐ 11323  
+   _🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering._
 
-14. [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) ⭐ 37901  
-   _A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang._
+8. [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) ⭐ 48845  
+   _Truly independent web browser_
 
-15. [django/django](https://github.com/django/django) ⭐ 85194  
-   _The Web framework for perfectionists with deadlines._
+9. [coinbase/x402](https://github.com/coinbase/x402) ⭐ 1401  
+   _A payments protocol for the internet. Built on HTTP._
 
-16. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) ⭐ 76978  
-   _Explain complex systems using visuals and simple terms. Help you prepare for system design interviews._
+10. [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 50182  
+   _30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw_
 
-17. [exo-explore/exo](https://github.com/exo-explore/exo) ⭐ 31324  
-   _Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚_
+11. [elastic/elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 74753  
+   _Free and Open Source, Distributed, RESTful Search Engine_
+
+12. [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 26492  
+   _OpenZeppelin Contracts is a library for secure smart contract development._
+
+13. [confident-ai/deepeval](https://github.com/confident-ai/deepeval) ⭐ 11237  
+   _The LLM Evaluation Framework_
+
+14. [cloudflare/capnweb](https://github.com/cloudflare/capnweb) ⭐ 2545  
+   _JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system_
+
+15. [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) ⭐ 7744  
+   _node of the decentralized oracle network, bridging on and off-chain computation_
+
+16. [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) ⭐ 13920  
+   _Open Source AI Platform - AI Chat with advanced features that works with every LLM_
 
 
-<!-- Última actualización: 2025-09-25T08:05:40.504727 UTC -->
+<!-- Última actualización: 2025-09-26T08:05:50.890337 UTC -->
