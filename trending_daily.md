@@ -1,64 +1,55 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-09-28
+# ⭐ Top 20 repositorios populares en GitHub - 2025-09-29
 
-1. [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) ⭐ 4282  
+1. [commaai/openpilot](https://github.com/commaai/openpilot) ⭐ 57040  
+   _openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars._
+
+2. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 338392  
+   _Interactive roadmaps, guides and other educational content to help developers grow in their careers._
+
+3. [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 73522  
+   _Implement a ChatGPT-like LLM in PyTorch from scratch, step by step_
+
+4. [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) ⭐ 4701  
    _The best way to get AI coding agents to solve hard problems in complex codebases._
 
-2. [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) ⭐ 14460  
-   _Open Source AI Platform - AI Chat with advanced features that works with every LLM_
+5. [typst/typst](https://github.com/typst/typst) ⭐ 46186  
+   _A new markup-based typesetting system that is powerful and easy to learn._
 
-3. [coinbase/x402](https://github.com/coinbase/x402) ⭐ 1617  
-   _A payments protocol for the internet. Built on HTTP._
+6. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 70632  
+   _Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models._
 
-4. [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) ⭐ 7112  
-   _"RAG-Anything: All-in-One RAG Framework"_
+7. [microsoft/qlib](https://github.com/microsoft/qlib) ⭐ 31506  
+   _Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process._
 
-5. [gin-gonic/gin](https://github.com/gin-gonic/gin) ⭐ 85995  
-   _Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices._
+8. [sst/opencode](https://github.com/sst/opencode) ⭐ 25465  
+   _AI coding agent, built for the terminal._
 
-6. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 40463  
+9. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 40832  
    _利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM._
 
-7. [frappe/erpnext](https://github.com/frappe/erpnext) ⭐ 28842  
-   _Free and Open Source Enterprise Resource Planning (ERP)_
-
-8. [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) ⭐ 10017  
-   _The official TypeScript SDK for Model Context Protocol servers and clients_
-
-9. [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ⭐ 30575  
+10. [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) ⭐ 30789  
    _人人都能用英语_
 
-10. [directus/directus](https://github.com/directus/directus) ⭐ 32623  
-   _The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more._
+11. [frappe/erpnext](https://github.com/frappe/erpnext) ⭐ 29056  
+   _Free and Open Source Enterprise Resource Planning (ERP)_
 
-11. [Olow304/memvid](https://github.com/Olow304/memvid) ⭐ 9587  
-   _Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed._
-
-12. [imputnet/helium](https://github.com/imputnet/helium) ⭐ 3620  
-   _Private, fast, and honest web browser_
-
-13. [roboflow/supervision](https://github.com/roboflow/supervision) ⭐ 35354  
-   _We write your reusable computer vision tools. 💜_
-
-14. [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) ⭐ 12298  
-   _A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers._
-
-15. [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) ⭐ 5167  
-   _A Datacenter Scale Distributed Inference Serving Framework_
-
-16. [basecamp/omarchy](https://github.com/basecamp/omarchy) ⭐ 11368  
+12. [basecamp/omarchy](https://github.com/basecamp/omarchy) ⭐ 11698  
    _Opinionated Arch/Hyprland Setup_
 
-17. [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 23037  
-   _A list of AI autonomous agents_
-
-18. [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) ⭐ 10506  
-   _Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems_
-
-19. [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) ⭐ 37178  
-   _ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux._
-
-20. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 43918  
+13. [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 44041  
    _The Free Software Media System - Server Backend & API_
 
+14. [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) ⭐ 36600  
+   _Metasploit Framework_
 
-<!-- Última actualización: 2025-09-28T08:05:03.109867 UTC -->
+15. [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) ⭐ 14714  
+   _Open Source AI Platform - AI Chat with advanced features that works with every LLM_
+
+16. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 128808  
+   _A feature-rich command-line audio/video downloader_
+
+17. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 40476  
+   _12 Lessons to Get Started Building AI Agents_
+
+
+<!-- Última actualización: 2025-09-29T08:06:25.212322 UTC -->
