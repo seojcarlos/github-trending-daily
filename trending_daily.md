@@ -1,58 +1,64 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-10-04
+# ⭐ Top 20 repositorios populares en GitHub - 2025-10-05
 
-1. [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) ⭐ 8824  
-   _基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版_
-
-2. [google/tunix](https://github.com/google/tunix) ⭐ 1379  
-   _A JAX-native LLM Post-Training Library_
-
-3. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 35078  
+1. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 35812  
    _An open source payments switch written in Rust to make payments fast, reliable and affordable_
 
-4. [airweave-ai/airweave](https://github.com/airweave-ai/airweave) ⭐ 3706  
-   _Airweave lets agents search any app_
-
-5. [kestra-io/kestra](https://github.com/kestra-io/kestra) ⭐ 21712  
-   _Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable._
-
-6. [nextcloud/server](https://github.com/nextcloud/server) ⭐ 32646  
-   _☁️ Nextcloud server, a safe home for all your data_
-
-7. [emcie-co/parlant](https://github.com/emcie-co/parlant) ⭐ 13356  
-   _LLM agents built for control. Designed for real-world use. Deployed in minutes._
-
-8. [Infisical/infisical](https://github.com/Infisical/infisical) ⭐ 20336  
-   _Infisical is the open-source platform for secrets management, PKI, and SSH access._
-
-9. [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) ⭐ 25750  
-   _Asynchronous image downloader with cache support as a UIImageView category_
-
-10. [microsoft/agent-framework](https://github.com/microsoft/agent-framework) ⭐ 1926  
-   _A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET._
-
-11. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) ⭐ 9939  
-   _A Download Manager that speeds up your downloads_
-
-12. [meshery/meshery](https://github.com/meshery/meshery) ⭐ 8002  
+2. [meshery/meshery](https://github.com/meshery/meshery) ⭐ 8409  
    _Meshery, the cloud native manager_
 
-13. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 44457  
+3. [google/tunix](https://github.com/google/tunix) ⭐ 1506  
+   _A JAX-native LLM Post-Training Library_
+
+4. [Stremio/stremio-web](https://github.com/Stremio/stremio-web) ⭐ 1958  
+   _Stremio - Freedom to Stream_
+
+5. [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 13917  
+   _The financial transactions database designed for mission critical safety and performance._
+
+6. [paaatrick/playball](https://github.com/paaatrick/playball) ⭐ 1079  
+   _Watch MLB games from the comfort of your own terminal_
+
+7. [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ⭐ 41831  
+   _✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs._
+
+8. [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) ⭐ 6593  
+   _Agent S: an open agentic framework that uses computers like a human_
+
+9. [kestra-io/kestra](https://github.com/kestra-io/kestra) ⭐ 21838  
+   _Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable._
+
+10. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 22597  
+   _Official inference framework for 1-bit LLMs_
+
+11. [Infisical/infisical](https://github.com/Infisical/infisical) ⭐ 20489  
+   _Infisical is the open-source platform for secrets management, PKI, and SSH access._
+
+12. [signalapp/libsignal](https://github.com/signalapp/libsignal) ⭐ 4916  
+   _Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible._
+
+13. [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) ⭐ 9686  
+   _Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility_
+
+14. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 44732  
    _Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG._
 
-14. [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 113307  
-   _A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev_
+15. [glide-browser/glide](https://github.com/glide-browser/glide) ⭐ 574  
+   _An extensible and keyboard-focused web browser_
 
-15. [symfony/symfony](https://github.com/symfony/symfony) ⭐ 30680  
-   _The Symfony PHP framework_
+16. [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 11594  
+   _dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications._
 
-16. [immich-app/immich](https://github.com/immich-app/immich) ⭐ 79563  
-   _High performance self-hosted photo and video management solution._
+17. [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) ⭐ 9115  
+   _基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版_
 
-17. [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) ⭐ 15738  
-   _pix2tex: Using a ViT to convert images of equations into LaTeX code._
+18. [airweave-ai/airweave](https://github.com/airweave-ai/airweave) ⭐ 3899  
+   _Airweave lets agents search any app_
 
-18. [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) ⭐ 3238  
-   _Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books.._
+19. [microsoft/agent-framework](https://github.com/microsoft/agent-framework) ⭐ 2282  
+   _A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET._
+
+20. [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) ⭐ 41428  
+   _Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more._
 
 
-<!-- Última actualización: 2025-10-04T08:05:05.808854 UTC -->
+<!-- Última actualización: 2025-10-05T08:04:51.738291 UTC -->
