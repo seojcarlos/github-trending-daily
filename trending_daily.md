@@ -1,64 +1,64 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-10-05
+# ⭐ Top 20 repositorios populares en GitHub - 2025-10-06
 
-1. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 35812  
-   _An open source payments switch written in Rust to make payments fast, reliable and affordable_
-
-2. [meshery/meshery](https://github.com/meshery/meshery) ⭐ 8409  
-   _Meshery, the cloud native manager_
-
-3. [google/tunix](https://github.com/google/tunix) ⭐ 1506  
-   _A JAX-native LLM Post-Training Library_
-
-4. [Stremio/stremio-web](https://github.com/Stremio/stremio-web) ⭐ 1958  
-   _Stremio - Freedom to Stream_
-
-5. [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 13917  
-   _The financial transactions database designed for mission critical safety and performance._
-
-6. [paaatrick/playball](https://github.com/paaatrick/playball) ⭐ 1079  
-   _Watch MLB games from the comfort of your own terminal_
-
-7. [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ⭐ 41831  
-   _✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs._
-
-8. [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) ⭐ 6593  
-   _Agent S: an open agentic framework that uses computers like a human_
-
-9. [kestra-io/kestra](https://github.com/kestra-io/kestra) ⭐ 21838  
-   _Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable._
-
-10. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 22597  
+1. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 23534  
    _Official inference framework for 1-bit LLMs_
 
-11. [Infisical/infisical](https://github.com/Infisical/infisical) ⭐ 20489  
-   _Infisical is the open-source platform for secrets management, PKI, and SSH access._
+2. [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) ⭐ 16872  
+   __
 
-12. [signalapp/libsignal](https://github.com/signalapp/libsignal) ⭐ 4916  
-   _Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible._
+3. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 36078  
+   _An open source payments switch written in Rust to make payments fast, reliable and affordable_
 
-13. [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) ⭐ 9686  
-   _Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility_
+4. [meshery/meshery](https://github.com/meshery/meshery) ⭐ 8588  
+   _Meshery, the cloud native manager_
 
-14. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 44732  
-   _Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG._
+5. [Stremio/stremio-web](https://github.com/Stremio/stremio-web) ⭐ 2238  
+   _Stremio - Freedom to Stream_
 
-15. [glide-browser/glide](https://github.com/glide-browser/glide) ⭐ 574  
+6. [glide-browser/glide](https://github.com/glide-browser/glide) ⭐ 779  
    _An extensible and keyboard-focused web browser_
 
-16. [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 11594  
-   _dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications._
+7. [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 90201  
+   _The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface._
 
-17. [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) ⭐ 9115  
+8. [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) ⭐ 9336  
    _基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版_
 
-18. [airweave-ai/airweave](https://github.com/airweave-ai/airweave) ⭐ 3899  
+9. [kestra-io/kestra](https://github.com/kestra-io/kestra) ⭐ 22055  
+   _Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable._
+
+10. [meshtastic/firmware](https://github.com/meshtastic/firmware) ⭐ 5821  
+   _The official firmware for Meshtastic, an open-source, off-grid mesh communication system._
+
+11. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 45073  
+   _Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG._
+
+12. [YaLTeR/niri](https://github.com/YaLTeR/niri) ⭐ 12726  
+   _A scrollable-tiling Wayland compositor._
+
+13. [audacity/audacity](https://github.com/audacity/audacity) ⭐ 14774  
+   _Audio Editor_
+
+14. [xtekky/gpt4free](https://github.com/xtekky/gpt4free) ⭐ 65334  
+   _The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5_
+
+15. [airweave-ai/airweave](https://github.com/airweave-ai/airweave) ⭐ 4060  
    _Airweave lets agents search any app_
 
-19. [microsoft/agent-framework](https://github.com/microsoft/agent-framework) ⭐ 2282  
-   _A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET._
+16. [evcc-io/evcc](https://github.com/evcc-io/evcc) ⭐ 5490  
+   _solar charging ☀️🚘_
 
-20. [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) ⭐ 41428  
-   _Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more._
+17. [Infisical/infisical](https://github.com/Infisical/infisical) ⭐ 20732  
+   _Infisical is the open-source platform for secrets management, PKI, and SSH access._
+
+18. [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) ⭐ 2392  
+   _Desktop App for downloading Videos and Audios from hundreds of sites_
+
+19. [expressjs/express](https://github.com/expressjs/express) ⭐ 67878  
+   _Fast, unopinionated, minimalist web framework for node._
+
+20. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) ⭐ 10312  
+   _A Download Manager that speeds up your downloads_
 
 
-<!-- Última actualización: 2025-10-05T08:04:51.738291 UTC -->
+<!-- Última actualización: 2025-10-06T08:06:21.508297 UTC -->
