@@ -1,64 +1,64 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-10-06
+# ⭐ Top 20 repositorios populares en GitHub - 2025-10-07
 
-1. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 23534  
-   _Official inference framework for 1-bit LLMs_
-
-2. [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) ⭐ 16872  
-   __
-
-3. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 36078  
-   _An open source payments switch written in Rust to make payments fast, reliable and affordable_
-
-4. [meshery/meshery](https://github.com/meshery/meshery) ⭐ 8588  
-   _Meshery, the cloud native manager_
-
-5. [Stremio/stremio-web](https://github.com/Stremio/stremio-web) ⭐ 2238  
-   _Stremio - Freedom to Stream_
-
-6. [glide-browser/glide](https://github.com/glide-browser/glide) ⭐ 779  
-   _An extensible and keyboard-focused web browser_
-
-7. [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 90201  
-   _The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface._
-
-8. [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) ⭐ 9336  
-   _基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版_
-
-9. [kestra-io/kestra](https://github.com/kestra-io/kestra) ⭐ 22055  
-   _Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable._
-
-10. [meshtastic/firmware](https://github.com/meshtastic/firmware) ⭐ 5821  
-   _The official firmware for Meshtastic, an open-source, off-grid mesh communication system._
-
-11. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 45073  
-   _Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG._
-
-12. [YaLTeR/niri](https://github.com/YaLTeR/niri) ⭐ 12726  
-   _A scrollable-tiling Wayland compositor._
-
-13. [audacity/audacity](https://github.com/audacity/audacity) ⭐ 14774  
-   _Audio Editor_
-
-14. [xtekky/gpt4free](https://github.com/xtekky/gpt4free) ⭐ 65334  
-   _The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5_
-
-15. [airweave-ai/airweave](https://github.com/airweave-ai/airweave) ⭐ 4060  
-   _Airweave lets agents search any app_
-
-16. [evcc-io/evcc](https://github.com/evcc-io/evcc) ⭐ 5490  
-   _solar charging ☀️🚘_
-
-17. [Infisical/infisical](https://github.com/Infisical/infisical) ⭐ 20732  
+1. [Infisical/infisical](https://github.com/Infisical/infisical) ⭐ 21753  
    _Infisical is the open-source platform for secrets management, PKI, and SSH access._
 
-18. [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) ⭐ 2392  
+2. [meshery/meshery](https://github.com/meshery/meshery) ⭐ 9100  
+   _Meshery, the cloud native manager_
+
+3. [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) ⭐ 7792  
+   _The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one._
+
+4. [Stremio/stremio-web](https://github.com/Stremio/stremio-web) ⭐ 2799  
+   _Stremio - Freedom to Stream_
+
+5. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 23840  
+   _Official inference framework for 1-bit LLMs_
+
+6. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 51083  
+   _所有小初高、大学PDF教材。_
+
+7. [audacity/audacity](https://github.com/audacity/audacity) ⭐ 14979  
+   _Audio Editor_
+
+8. [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 36322  
+   _An open source payments switch written in Rust to make payments fast, reliable and affordable_
+
+9. [openemr/openemr](https://github.com/openemr/openemr) ⭐ 3892  
+   _The most popular open source electronic health records and medical practice management solution._
+
+10. [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) ⭐ 27229  
+   _Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!_
+
+11. [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) ⭐ 2893  
    _Desktop App for downloading Videos and Audios from hundreds of sites_
 
-19. [expressjs/express](https://github.com/expressjs/express) ⭐ 67878  
-   _Fast, unopinionated, minimalist web framework for node._
+12. [zama-ai/fhevm](https://github.com/zama-ai/fhevm) ⭐ 22571  
+   _FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications_
 
-20. [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) ⭐ 10312  
-   _A Download Manager that speeds up your downloads_
+13. [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 45337  
+   _Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG._
+
+14. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) ⭐ 210164  
+   _All Algorithms implemented in Python_
+
+15. [kestra-io/kestra](https://github.com/kestra-io/kestra) ⭐ 22253  
+   _Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable._
+
+16. [htr-tech/zphisher](https://github.com/htr-tech/zphisher) ⭐ 14520  
+   _An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !_
+
+17. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 371805  
+   _📚 Freely available programming books_
+
+18. [google/osv.dev](https://github.com/google/osv.dev) ⭐ 2276  
+   _Open source vulnerability DB and triage service._
+
+19. [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) ⭐ 20729  
+   _Firefly III: a personal finances manager_
+
+20. [shadcn-ui/ui](https://github.com/shadcn-ui/ui) ⭐ 96435  
+   _A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code._
 
 
-<!-- Última actualización: 2025-10-06T08:06:21.508297 UTC -->
+<!-- Última actualización: 2025-10-07T08:05:41.296022 UTC -->
