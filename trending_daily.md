@@ -1,40 +1,43 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-10-09
+# ⭐ Top 20 repositorios populares en GitHub - 2025-10-10
 
-1. [Stremio/stremio-web](https://github.com/Stremio/stremio-web) ⭐ 5933  
+1. [Stremio/stremio-web](https://github.com/Stremio/stremio-web) ⭐ 6989  
    _Stremio - Freedom to Stream_
 
-2. [Infisical/infisical](https://github.com/Infisical/infisical) ⭐ 22363  
-   _Infisical is the open-source platform for secrets management, PKI, and SSH access._
-
-3. [browserbase/stagehand](https://github.com/browserbase/stagehand) ⭐ 17663  
-   _The AI Browser Automation Framework_
-
-4. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 51887  
-   _所有小初高、大学PDF教材。_
-
-5. [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) ⭐ 8445  
-   _The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one._
-
-6. [trycua/cua](https://github.com/trycua/cua) ⭐ 10463  
-   _Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows)._
-
-7. [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) ⭐ 4086  
-   _Desktop App for downloading Videos and Audios from hundreds of sites_
-
-8. [openemr/openemr](https://github.com/openemr/openemr) ⭐ 4258  
-   _The most popular open source electronic health records and medical practice management solution._
-
-9. [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) ⭐ 20118  
-   _Open-source IoT Platform - Device management, data collection, processing and visualization._
-
-10. [dyad-sh/dyad](https://github.com/dyad-sh/dyad) ⭐ 15841  
-   _Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!_
-
-11. [shadcn-ui/ui](https://github.com/shadcn-ui/ui) ⭐ 96998  
-   _A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code._
-
-12. [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) ⭐ 8670  
+2. [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) ⭐ 8981  
    _Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9_
 
+3. [google/computer-use-preview](https://github.com/google/computer-use-preview) ⭐ 777  
+   __
 
-<!-- Última actualización: 2025-10-09T08:05:31.960338 UTC -->
+4. [TibixDev/winboat](https://github.com/TibixDev/winboat) ⭐ 8653  
+   _Run Windows apps on 🐧 Linux with ✨ seamless integration_
+
+5. [timelinize/timelinize](https://github.com/timelinize/timelinize) ⭐ 2313  
+   _Store your data from all your accounts and devices in a single cohesive timeline on your own computer_
+
+6. [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) ⭐ 6573  
+   _Format Rust code_
+
+7. [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) ⭐ 1232  
+   _Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects._
+
+8. [openai/openai-agents-python](https://github.com/openai/openai-agents-python) ⭐ 16125  
+   _A lightweight, powerful framework for multi-agent workflows_
+
+9. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 52337  
+   _所有小初高、大学PDF教材。_
+
+10. [browserbase/stagehand](https://github.com/browserbase/stagehand) ⭐ 17945  
+   _The AI Browser Automation Framework_
+
+11. [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 99637  
+   _An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer._
+
+12. [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) ⭐ 45264  
+   _Build AI Agents, Visually_
+
+13. [winapps-org/winapps](https://github.com/winapps-org/winapps) ⭐ 10910  
+   _Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/_
+
+
+<!-- Última actualización: 2025-10-10T08:06:04.833082 UTC -->
