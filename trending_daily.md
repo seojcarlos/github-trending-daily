@@ -1,49 +1,40 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-10-11
+# ⭐ Top 20 repositorios populares en GitHub - 2025-10-12
 
-1. [browserbase/stagehand](https://github.com/browserbase/stagehand) ⭐ 18250  
-   _The AI Browser Automation Framework_
-
-2. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) ⭐ 19615  
-   _An MCP-based chatbot | 一个基于MCP的聊天机器人_
-
-3. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 36296  
+1. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 37228  
    _Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands._
 
-4. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 52788  
-   _所有小初高、大学PDF教材。_
+2. [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) ⭐ 14104  
+   _Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud._
 
-5. [TibixDev/winboat](https://github.com/TibixDev/winboat) ⭐ 9465  
-   _Run Windows apps on 🐧 Linux with ✨ seamless integration_
-
-6. [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) ⭐ 8418  
-   _Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report_
-
-7. [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) ⭐ 9189  
+3. [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) ⭐ 9401  
    _Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9_
 
-8. [CapSoftware/Cap](https://github.com/CapSoftware/Cap) ⭐ 12492  
-   _Open source Loom alternative. Beautiful, shareable screen recordings._
+4. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 7294  
+   _CLI tool for configuring and monitoring Claude Code_
 
-9. [Stremio/stremio-web](https://github.com/Stremio/stremio-web) ⭐ 7323  
-   _Stremio - Freedom to Stream_
+5. [timelinize/timelinize](https://github.com/timelinize/timelinize) ⭐ 2621  
+   _Store your data from all your accounts and devices in a single cohesive timeline on your own computer_
 
-10. [xyflow/xyflow](https://github.com/xyflow/xyflow) ⭐ 32534  
-   _React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable._
-
-11. [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) ⭐ 11551  
-   _Memory engine and app that is extremely fast, scalable. The Memory API for the AI era._
-
-12. [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) ⭐ 6481  
-   _🛍️ Typescript E-commerce Platform_
-
-13. [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) ⭐ 1583  
+6. [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) ⭐ 1867  
    _Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects._
 
-14. [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) ⭐ 17611  
-   _An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation._
+7. [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) ⭐ 11862  
+   _Memory engine and app that is extremely fast, scalable. The Memory API for the AI era._
 
-15. [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) ⭐ 4647  
-   _大麦自动抢票，支持人员、城市、日期场次、价格选择_
+8. [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) ⭐ 6876  
+   _🛍️ Typescript E-commerce Platform_
+
+9. [CapSoftware/Cap](https://github.com/CapSoftware/Cap) ⭐ 12744  
+   _Open source Loom alternative. Beautiful, shareable screen recordings._
+
+10. [dataease/SQLBot](https://github.com/dataease/SQLBot) ⭐ 3833  
+   _🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG._
+
+11. [TibixDev/winboat](https://github.com/TibixDev/winboat) ⭐ 10136  
+   _Run Windows apps on 🐧 Linux with ✨ seamless integration_
+
+12. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐ 77575  
+   _A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience_
 
 
-<!-- Última actualización: 2025-10-11T08:05:01.703827 UTC -->
+<!-- Última actualización: 2025-10-12T08:05:03.948753 UTC -->
