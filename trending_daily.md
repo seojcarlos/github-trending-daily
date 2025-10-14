@@ -1,64 +1,49 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2025-10-13
+# ⭐ Top 20 repositorios populares en GitHub - 2025-10-14
 
-1. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 38276  
+1. [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) ⭐ 21622  
+   _Anthropic's Interactive Prompt Engineering Tutorial_
+
+2. [coleam00/Archon](https://github.com/coleam00/Archon) ⭐ 12745  
+   _Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants._
+
+3. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 38697  
    _Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands._
 
-2. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 7638  
-   _CLI tool for configuring and monitoring Claude Code_
+4. [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ⭐ 22437  
+   _Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini_
 
-3. [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) ⭐ 7252  
-   _🛍️ Typescript E-commerce Platform_
-
-4. [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) ⭐ 19934  
-   _An MCP-based chatbot | 一个基于MCP的聊天机器人_
-
-5. [daytonaio/daytona](https://github.com/daytonaio/daytona) ⭐ 22993  
-   _Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code_
-
-6. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 53209  
-   _所有小初高、大学PDF教材。_
-
-7. [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) ⭐ 4968  
-   _大麦自动抢票，支持人员、城市、日期场次、价格选择_
-
-8. [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 39216  
-   _🧡 Everything is RSSible_
-
-9. [DearVa/Everywhere](https://github.com/DearVa/Everywhere) ⭐ 687  
-   _A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools._
-
-10. [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 94951  
-   _程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only)._
-
-11. [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) ⭐ 17822  
-   _An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation._
-
-12. [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 66777  
-   _🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application._
-
-13. [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) ⭐ 2195  
-   _Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects._
-
-14. [basecamp/omarchy](https://github.com/basecamp/omarchy) ⭐ 13725  
-   _Opinionated Arch/Hyprland Setup_
-
-15. [TibixDev/winboat](https://github.com/TibixDev/winboat) ⭐ 10743  
-   _Run Windows apps on 🐧 Linux with ✨ seamless integration_
-
-16. [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) ⭐ 6176  
-   _Agentic AI Framework for Java Developers_
-
-17. [oven-sh/bun](https://github.com/oven-sh/bun) ⭐ 81145  
-   _Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one_
-
-18. [huggingface/diffusers](https://github.com/huggingface/diffusers) ⭐ 31197  
-   _🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch._
-
-19. [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) ⭐ 4890  
+5. [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) ⭐ 5073  
    _Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale_
 
-20. [opendatalab/MinerU](https://github.com/opendatalab/MinerU) ⭐ 46039  
-   _Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows._
+6. [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐ 369234  
+   _A collective list of free APIs_
+
+7. [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) ⭐ 77881  
+   _A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience_
+
+8. [oven-sh/bun](https://github.com/oven-sh/bun) ⭐ 81337  
+   _Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one_
+
+9. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 87746  
+   _LLM inference in C/C++_
+
+10. [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) ⭐ 2421  
+   _Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects._
+
+11. [basecamp/omarchy](https://github.com/basecamp/omarchy) ⭐ 13960  
+   _Opinionated Arch/Hyprland Setup_
+
+12. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 7939  
+   _CLI tool for configuring and monitoring Claude Code_
+
+13. [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) ⭐ 28996  
+   _A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11._
+
+14. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 63416  
+   _🐙 Guides, papers, lecture, notebooks and resources for prompt engineering_
+
+15. [nitrojs/nitro](https://github.com/nitrojs/nitro) ⭐ 8279  
+   _Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer._
 
 
-<!-- Última actualización: 2025-10-13T08:06:49.012077 UTC -->
+<!-- Última actualización: 2025-10-14T08:05:38.232629 UTC -->
