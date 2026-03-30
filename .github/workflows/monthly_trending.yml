@@ -1,8 +1,9 @@
+# .github/workflows/monthly_trending.yml
 name: Actualización mensual de trending
 
 on:
   schedule:
-    - cron: '0 8 1 * *'  # El primer día de cada mes a las 8:00 UTC
+    - cron: '0 9 1 * *'  # El día 1 de cada mes a las 9:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -21,16 +22,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Instalar requests
-        run: pip install requests
-
       - name: Ejecutar script mensual
         run: python generate_monthly.py
 
       - name: Commit y push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "seojcarlos"
+          git config --global user.email "jcarlos@convertiam.com"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add trending_monthly.md
           if git diff --staged --quiet; then
