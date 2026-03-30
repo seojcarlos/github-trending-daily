@@ -1,0 +1,27 @@
+# .github/workflows/keepalive.yml
+name: Keepalive - Mantener workflows activos
+
+on:
+  schedule:
+    - cron: '0 6 1 */2 *'  # Día 1 de cada 2 meses a las 6:00 UTC
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Actualizar keepalive
+        run: |
+          echo "Último keepalive: $(date -u '+%Y-%m-%d %H:%M UTC')" > .keepalive
+          git config --global user.name "seojcarlos"
+          git config --global user.email "jcarlos@convertiam.com"
+          git add .keepalive
+          git commit -m "chore: keepalive para mantener workflows activos"
+          git push
