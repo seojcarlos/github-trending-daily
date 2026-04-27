@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-04-20
+# ⭐ Top repositorios de la semana - 2026-04-27
 
 Basado en 7 días de datos del trending diario.
 
-1. [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 20 — 5 apariciones
+1. [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) ⭐ 66 — 5 apariciones
 
-2. [openai/openai-agents-python](https://github.com/openai/openai-agents-python) ⭐ 23 — 4 apariciones
+2. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) ⭐ 14 — 4 apariciones
 
-3. [EvoMap/evolver](https://github.com/EvoMap/evolver) ⭐ 5 — 4 apariciones
+3. [zilliztech/claude-context](https://github.com/zilliztech/claude-context) ⭐ 9 — 4 apariciones
 
-4. [BasedHardware/omi](https://github.com/BasedHardware/omi) ⭐ 11 — 4 apariciones
+4. [ruvnet/RuView](https://github.com/ruvnet/RuView) ⭐ 49 — 4 apariciones
 
-5. [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) ⭐ 32 — 4 apariciones
+5. [PostHog/posthog](https://github.com/PostHog/posthog) ⭐ 34 — 3 apariciones
 
-6. [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 52 — 4 apariciones
+6. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 497 — 3 apariciones
 
-7. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 60 — 4 apariciones
+7. [huggingface/ml-intern](https://github.com/huggingface/ml-intern) ⭐ 6 — 3 apariciones
 
-8. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) ⭐ 14 — 3 apariciones
+8. [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) ⭐ 13 — 3 apariciones
 
-9. [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) ⭐ 3 — 3 apariciones
+9. [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) ⭐ 18 — 3 apariciones
 
-10. [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) ⭐ 3 — 3 apariciones
+10. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) ⭐ 13 — 3 apariciones
 
-11. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 158 — 3 apariciones
+11. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 25 — 2 apariciones
 
-12. [google/magika](https://github.com/google/magika) ⭐ 15 — 3 apariciones
+12. [microsoft/typescript-go](https://github.com/microsoft/typescript-go) ⭐ 25 — 2 apariciones
 
-13. [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) ⭐ 55 — 3 apariciones
+13. [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) ⭐ 2 — 2 apariciones
 
-14. [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) ⭐ 2 — 2 apariciones
+14. [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) ⭐ 9 — 2 apariciones
 
-15. [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) ⭐ 813 — 2 apariciones
+15. [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) ⭐ 53 — 2 apariciones
 
-16. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) ⭐ 10 — 2 apariciones
+16. [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) ⭐ 7 — 2 apariciones
 
-17. [z-lab/dflash](https://github.com/z-lab/dflash) ⭐ 1 — 2 apariciones
+17. [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 59 — 2 apariciones
 
-18. [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) ⭐ 3 — 2 apariciones
+18. [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 18 — 2 apariciones
 
-19. [pascalorg/editor](https://github.com/pascalorg/editor) ⭐ 12 — 2 apariciones
+19. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) ⭐ 51 — 2 apariciones
 
-20. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) ⭐ 66 — 2 apariciones
+20. [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) ⭐ 54 — 2 apariciones
 
-21. [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 108 — 2 apariciones
+21. [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) ⭐ 3 — 2 apariciones
 
-22. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 17 — 2 apariciones
+22. [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) ⭐ 30 — 1 apariciones
 
-23. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐ 86 — 2 apariciones
+23. [trycua/cua](https://github.com/trycua/cua) ⭐ 14 — 1 apariciones
 
-24. [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) ⭐ 40 — 2 apariciones
+24. [gastownhall/beads](https://github.com/gastownhall/beads) ⭐ 21 — 1 apariciones
 
-25. [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ⭐ 44 — 2 apariciones
+25. [curl/curl](https://github.com/curl/curl) ⭐ 41 — 1 apariciones
 
 
-<!-- Última actualización: 2026-04-20T09:36:08.513634+00:00 UTC -->
+<!-- Última actualización: 2026-04-27T09:46:21.875260+00:00 UTC -->
