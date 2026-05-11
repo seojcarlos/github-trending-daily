@@ -25,12 +25,13 @@ def extract_repos_from_file(filepath):
     repos = []
     with open(filepath, encoding="utf-8") as f:
         for line in f:
-            match = re.match(r"\d+\.\s+\[([^\]]+)\]\(([^)]+)\)\s+⭐\s+(\d+)", line)
+            match = re.match(r"\d+\.\s+\[([^\]]+)\]\(([^)]+)\)\s+⭐\s+([\d,.]+)", line)
             if match:
+                stars_raw = match.group(3).replace(",", "").replace(".", "")
                 repos.append({
                     "name": match.group(1),
                     "url": match.group(2),
-                    "stars": int(match.group(3))
+                    "stars": int(stars_raw)
                 })
     return repos
 
@@ -62,7 +63,8 @@ def main():
         for i, (name, count) in enumerate(appearances.most_common(25), 1):
             url = urls.get(name, f"https://github.com/{name}")
             stars = best_stars.get(name, 0)
-            lines.append(f"{i}. [{name}]({url}) ⭐ {stars} — {count} apariciones\n")
+            stars_fmt = f"{stars:,}".replace(",", ".")
+            lines.append(f"{i}. [{name}]({url}) ⭐ {stars_fmt} — {count} apariciones\n")
         lines.append(f"\n<!-- Última actualización: {datetime.now(timezone.utc).isoformat()} UTC -->")
         content = "\n".join(lines)
 

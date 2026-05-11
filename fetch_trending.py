@@ -92,9 +92,10 @@ def main():
 
         for i, repo in enumerate(repos, 1):
             lang = f" `{repo['language']}`" if repo["language"] else ""
+            stars_fmt = f"{repo['stars']:,}".replace(",", ".")
             today_str = f" (+{repo['stars_today']} hoy)" if repo["stars_today"] else ""
             line = (
-                f"{i}. [{repo['name']}]({repo['url']}) ⭐ {repo['stars']:,}{today_str}{lang}  \n"
+                f"{i}. [{repo['name']}]({repo['url']}) ⭐ {stars_fmt}{today_str}{lang}  \n"
                 f"   _{repo['description']}_\n"
             )
             content.append(line)
