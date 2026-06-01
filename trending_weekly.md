@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-05-25
+# ⭐ Top repositorios de la semana - 2026-06-01
 
 Basado en 7 días de datos del trending diario.
 
-1. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) ⭐ 27.597 — 6 apariciones
+1. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 199.644 — 6 apariciones
 
-2. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) ⭐ 23.739 — 6 apariciones
+2. [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 76.083 — 5 apariciones
 
-3. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ⭐ 17.459 — 5 apariciones
+3. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 28.580 — 5 apariciones
 
-4. [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 153.258 — 5 apariciones
+4. [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) ⭐ 7.150 — 5 apariciones
 
-5. [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) ⭐ 28.600 — 4 apariciones
+5. [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 136.422 — 4 apariciones
 
-6. [dotnet/skills](https://github.com/dotnet/skills) ⭐ 3.038 — 4 apariciones
+6. [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) ⭐ 18.905 — 4 apariciones
 
-7. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ⭐ 39.403 — 4 apariciones
+7. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 509.819 — 4 apariciones
 
-8. [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) ⭐ 18.666 — 4 apariciones
+8. [twentyhq/twenty](https://github.com/twentyhq/twenty) ⭐ 48.554 — 4 apariciones
 
-9. [multica-ai/multica](https://github.com/multica-ai/multica) ⭐ 32.849 — 3 apariciones
+9. [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) ⭐ 172.109 — 4 apariciones
 
-10. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 41.443 — 3 apariciones
+10. [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) ⭐ 43.670 — 4 apariciones
 
-11. [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 224.044 — 3 apariciones
+11. [revfactory/harness](https://github.com/revfactory/harness) ⭐ 4.885 — 3 apariciones
 
-12. [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) ⭐ 6.509 — 3 apariciones
+12. [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) ⭐ 27.897 — 3 apariciones
 
-13. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 202.206 — 3 apariciones
+13. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 129.201 — 3 apariciones
 
-14. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) ⭐ 103.972 — 3 apariciones
+14. [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) ⭐ 49.834 — 3 apariciones
 
-15. [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) ⭐ 24.236 — 3 apariciones
+15. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 17.531 — 3 apariciones
 
-16. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) ⭐ 29.404 — 2 apariciones
+16. [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 11.303 — 3 apariciones
 
-17. [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 8.726 — 2 apariciones
+17. [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) ⭐ 6.161 — 3 apariciones
 
-18. [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) ⭐ 23.288 — 2 apariciones
+18. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) ⭐ 23.906 — 2 apariciones
 
-19. [odoo/odoo](https://github.com/odoo/odoo) ⭐ 51.583 — 2 apariciones
+19. [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) ⭐ 3.353 — 2 apariciones
 
-20. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 165.146 — 2 apariciones
+20. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 1.529 — 2 apariciones
 
-21. [ruvnet/RuView](https://github.com/ruvnet/RuView) ⭐ 64.291 — 2 apariciones
+21. [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) ⭐ 1.519 — 2 apariciones
 
-22. [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) ⭐ 5.578 — 2 apariciones
+22. [run-llama/liteparse](https://github.com/run-llama/liteparse) ⭐ 8.082 — 2 apariciones
 
-23. [truelockmc/streambert](https://github.com/truelockmc/streambert) ⭐ 4.350 — 2 apariciones
+23. [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ⭐ 41.839 — 2 apariciones
 
-24. [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) ⭐ 15.450 — 2 apariciones
+24. [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) ⭐ 2.719 — 2 apariciones
 
-25. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 112.009 — 2 apariciones
+25. [anthropics/skills](https://github.com/anthropics/skills) ⭐ 144.389 — 2 apariciones
 
 
-<!-- Última actualización: 2026-05-25T10:32:17.127000+00:00 UTC -->
+<!-- Última actualización: 2026-06-01T10:44:31.311122+00:00 UTC -->
