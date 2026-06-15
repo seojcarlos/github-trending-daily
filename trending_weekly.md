@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-06-08
+# ⭐ Top repositorios de la semana - 2026-06-15
 
 Basado en 7 días de datos del trending diario.
 
-1. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 32.648 — 4 apariciones
+1. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 58.870 — 5 apariciones
 
-2. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐ 186.653 — 4 apariciones
+2. [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) ⭐ 15.951 — 5 apariciones
 
-3. [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 27.686 — 4 apariciones
+3. [phuryn/pm-skills](https://github.com/phuryn/pm-skills) ⭐ 17.282 — 5 apariciones
 
-4. [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 36.045 — 4 apariciones
+4. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 227.295 — 4 apariciones
 
-5. [chopratejas/headroom](https://github.com/chopratejas/headroom) ⭐ 14.948 — 4 apariciones
+5. [apple/container](https://github.com/apple/container) ⭐ 36.597 — 4 apariciones
 
-6. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 208.648 — 4 apariciones
+6. [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 140.403 — 4 apariciones
 
-7. [openai/plugins](https://github.com/openai/plugins) ⭐ 2.162 — 3 apariciones
+7. [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) ⭐ 3.290 — 4 apariciones
 
-8. [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 81.115 — 3 apariciones
+8. [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐ 122.283 — 3 apariciones
 
-9. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 350.545 — 3 apariciones
+9. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 31.422 — 3 apariciones
 
-10. [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) ⭐ 9.837 — 3 apariciones
+10. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) ⭐ 5.835 — 3 apariciones
 
-11. [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 143.472 — 3 apariciones
+11. [music-assistant/server](https://github.com/music-assistant/server) ⭐ 2.296 — 3 apariciones
 
-12. [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) ⭐ 13.279 — 3 apariciones
+12. [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) ⭐ 6.119 — 3 apariciones
 
-13. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 60.688 — 3 apariciones
+13. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 74.081 — 3 apariciones
 
-14. [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) ⭐ 25.384 — 3 apariciones
+14. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 39.442 — 3 apariciones
 
-15. [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 33.458 — 2 apariciones
+15. [roboflow/supervision](https://github.com/roboflow/supervision) ⭐ 43.754 — 3 apariciones
 
-16. [MemPalace/mempalace](https://github.com/MemPalace/mempalace) ⭐ 54.476 — 2 apariciones
+16. [swc-project/swc](https://github.com/swc-project/swc) ⭐ 33.878 — 2 apariciones
 
-17. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 22.751 — 2 apariciones
+17. [andrewyng/aisuite](https://github.com/andrewyng/aisuite) ⭐ 14.513 — 2 apariciones
 
-18. [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) ⭐ 9.520 — 2 apariciones
+18. [kenn-io/agentsview](https://github.com/kenn-io/agentsview) ⭐ 2.497 — 2 apariciones
 
-19. [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) ⭐ 1.650 — 2 apariciones
+19. [LMCache/LMCache](https://github.com/LMCache/LMCache) ⭐ 8.993 — 2 apariciones
 
-20. [github/copilot-sdk](https://github.com/github/copilot-sdk) ⭐ 9.328 — 2 apariciones
+20. [microsoft/PowerToys](https://github.com/microsoft/PowerToys) ⭐ 134.784 — 2 apariciones
 
-21. [reconurge/flowsint](https://github.com/reconurge/flowsint) ⭐ 5.444 — 2 apariciones
+21. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) ⭐ 47.630 — 2 apariciones
 
-22. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) ⭐ 25.385 — 2 apariciones
+22. [mattermost/mattermost](https://github.com/mattermost/mattermost) ⭐ 37.714 — 2 apariciones
 
-23. [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) ⭐ 18.784 — 2 apariciones
+23. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) ⭐ 112.649 — 2 apariciones
 
-24. [opencv/opencv](https://github.com/opencv/opencv) ⭐ 88.292 — 1 apariciones
+24. [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 32.845 — 2 apariciones
 
-25. [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 37.805 — 1 apariciones
+25. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) ⭐ 36.770 — 2 apariciones
 
 
-<!-- Última actualización: 2026-06-08T10:35:16.842227+00:00 UTC -->
+<!-- Última actualización: 2026-06-15T11:03:06.790907+00:00 UTC -->
