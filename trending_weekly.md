@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-06-22
+# ⭐ Top repositorios de la semana - 2026-06-29
 
 Basado en 7 días de datos del trending diario.
 
-1. [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ⭐ 10.900 — 5 apariciones
+1. [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) ⭐ 22.405 — 6 apariciones
 
-2. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) ⭐ 10.186 — 4 apariciones
+2. [garrytan/gstack](https://github.com/garrytan/gstack) ⭐ 117.460 — 5 apariciones
 
-3. [penpot/penpot](https://github.com/penpot/penpot) ⭐ 52.574 — 4 apariciones
+3. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) ⭐ 24.214 — 5 apariciones
 
-4. [google-research/timesfm](https://github.com/google-research/timesfm) ⭐ 24.688 — 4 apariciones
+4. [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) ⭐ 6.139 — 4 apariciones
 
-5. [n0-computer/iroh](https://github.com/n0-computer/iroh) ⭐ 10.294 — 4 apariciones
+5. [google-labs-code/design.md](https://github.com/google-labs-code/design.md) ⭐ 22.595 — 4 apariciones
 
-6. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 449.702 — 4 apariciones
+6. [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) ⭐ 15.774 — 3 apariciones
 
-7. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) ⭐ 6.385 — 3 apariciones
+7. [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 126.187 — 3 apariciones
 
-8. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 140.738 — 3 apariciones
+8. [commaai/openpilot](https://github.com/commaai/openpilot) ⭐ 62.614 — 3 apariciones
 
-9. [Kong/insomnia](https://github.com/Kong/insomnia) ⭐ 39.441 — 3 apariciones
+9. [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ⭐ 20.600 — 3 apariciones
 
-10. [withastro/flue](https://github.com/withastro/flue) ⭐ 6.197 — 3 apariciones
+10. [opendatalab/MinerU](https://github.com/opendatalab/MinerU) ⭐ 72.081 — 3 apariciones
 
-11. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 233.685 — 3 apariciones
+11. [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) ⭐ 35.921 — 3 apariciones
 
-12. [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) ⭐ 8.007 — 3 apariciones
+12. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 53.912 — 3 apariciones
 
-13. [meshery/meshery](https://github.com/meshery/meshery) ⭐ 11.091 — 3 apariciones
+13. [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 21.530 — 3 apariciones
 
-14. [tursodatabase/turso](https://github.com/tursodatabase/turso) ⭐ 21.044 — 2 apariciones
+14. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) ⭐ 49.171 — 3 apariciones
 
-15. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) ⭐ 58.441 — 2 apariciones
+15. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) ⭐ 14.727 — 2 apariciones
 
-16. [chopratejas/headroom](https://github.com/chopratejas/headroom) ⭐ 42.606 — 2 apariciones
+16. [every-app/open-seo](https://github.com/every-app/open-seo) ⭐ 3.574 — 2 apariciones
 
-17. [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) ⭐ 23.487 — 2 apariciones
+17. [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) ⭐ 3.614 — 2 apariciones
 
-18. [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 14.898 — 2 apariciones
+18. [mauriceboe/TREK](https://github.com/mauriceboe/TREK) ⭐ 7.878 — 2 apariciones
 
-19. [zai-org/GLM-5](https://github.com/zai-org/GLM-5) ⭐ 4.694 — 2 apariciones
+19. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) ⭐ 1.419 — 2 apariciones
 
-20. [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) ⭐ 7.727 — 2 apariciones
+20. [apple/container](https://github.com/apple/container) ⭐ 43.447 — 2 apariciones
 
-21. [alibaba/zvec](https://github.com/alibaba/zvec) ⭐ 11.404 — 2 apariciones
+21. [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ⭐ 60.956 — 2 apariciones
 
-22. [makeplane/plane](https://github.com/makeplane/plane) ⭐ 51.976 — 2 apariciones
+22. [revfactory/harness](https://github.com/revfactory/harness) ⭐ 7.893 — 2 apariciones
 
-23. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 33.869 — 2 apariciones
+23. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐ 202.526 — 2 apariciones
 
-24. [krahets/hello-algo](https://github.com/krahets/hello-algo) ⭐ 127.628 — 2 apariciones
+24. [bytedance/deer-flow](https://github.com/bytedance/deer-flow) ⭐ 74.223 — 2 apariciones
 
-25. [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 32.493 — 2 apariciones
+25. [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) ⭐ 8.651 — 2 apariciones
 
 
-<!-- Última actualización: 2026-06-22T10:53:43.571847+00:00 UTC -->
+<!-- Última actualización: 2026-06-29T10:35:04.796079+00:00 UTC -->
