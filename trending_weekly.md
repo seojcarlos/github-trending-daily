@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-07-20
+# ⭐ Top repositorios de la semana - 2026-07-27
 
 Basado en 7 días de datos del trending diario.
 
-1. [Nutlope/hallmark](https://github.com/Nutlope/hallmark) ⭐ 12.433 — 5 apariciones
+1. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 34.375 — 5 apariciones
 
-2. [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) ⭐ 75.152 — 5 apariciones
+2. [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) ⭐ 29.385 — 5 apariciones
 
-3. [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) ⭐ 15.288 — 4 apariciones
+3. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 70.790 — 4 apariciones
 
-4. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 123.331 — 4 apariciones
+4. [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 9.811 — 4 apariciones
 
-5. [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 22.222 — 3 apariciones
+5. [koala73/worldmonitor](https://github.com/koala73/worldmonitor) ⭐ 73.735 — 4 apariciones
 
-6. [PostHog/posthog](https://github.com/PostHog/posthog) ⭐ 36.744 — 3 apariciones
+6. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) ⭐ 71.463 — 4 apariciones
 
-7. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 528.536 — 3 apariciones
+7. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ⭐ 14.346 — 3 apariciones
 
-8. [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) ⭐ 6.811 — 3 apariciones
+8. [block/buzz](https://github.com/block/buzz) ⭐ 12.498 — 3 apariciones
 
-9. [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) ⭐ 66.562 — 3 apariciones
+9. [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) ⭐ 3.909 — 3 apariciones
 
-10. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) ⭐ 27.533 — 3 apariciones
+10. [Automattic/harper](https://github.com/Automattic/harper) ⭐ 13.554 — 3 apariciones
 
-11. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 175.030 — 3 apariciones
+11. [likec4/likec4](https://github.com/likec4/likec4) ⭐ 5.119 — 3 apariciones
 
-12. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 89.642 — 3 apariciones
+12. [ruvnet/RuView](https://github.com/ruvnet/RuView) ⭐ 86.149 — 3 apariciones
 
-13. [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) ⭐ 24.085 — 3 apariciones
+13. [agegr/pi-web](https://github.com/agegr/pi-web) ⭐ 2.536 — 3 apariciones
 
-14. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ⭐ 40.133 — 2 apariciones
+14. [oblien/openship](https://github.com/oblien/openship) ⭐ 7.635 — 3 apariciones
 
-15. [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) ⭐ 13.881 — 2 apariciones
+15. [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 25.635 — 3 apariciones
 
-16. [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) ⭐ 10.064 — 2 apariciones
+16. [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) ⭐ 31.461 — 2 apariciones
 
-17. [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) ⭐ 2.192 — 2 apariciones
+17. [yorukot/superfile](https://github.com/yorukot/superfile) ⭐ 20.525 — 2 apariciones
 
-18. [apache/ossie](https://github.com/apache/ossie) ⭐ 1.349 — 2 apariciones
+18. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 188.854 — 2 apariciones
 
-19. [ibelick/ui-skills](https://github.com/ibelick/ui-skills) ⭐ 5.261 — 2 apariciones
+19. [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) ⭐ 5.285 — 2 apariciones
 
-20. [github/copilot-sdk](https://github.com/github/copilot-sdk) ⭐ 9.847 — 2 apariciones
+20. [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) ⭐ 45.493 — 2 apariciones
 
-21. [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) ⭐ 1.771 — 2 apariciones
+21. [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) ⭐ 26.853 — 2 apariciones
 
-22. [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) ⭐ 1.537 — 2 apariciones
+22. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) ⭐ 10.262 — 2 apariciones
 
-23. [moeru-ai/airi](https://github.com/moeru-ai/airi) ⭐ 42.726 — 2 apariciones
+23. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) ⭐ 8.841 — 2 apariciones
 
-24. [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) ⭐ 4.951 — 2 apariciones
+24. [schollz/croc](https://github.com/schollz/croc) ⭐ 38.018 — 2 apariciones
 
-25. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) ⭐ 40.060 — 2 apariciones
+25. [jamiepine/voicebox](https://github.com/jamiepine/voicebox) ⭐ 46.106 — 2 apariciones
 
 
-<!-- Última actualización: 2026-07-20T11:39:15.646258+00:00 UTC -->
+<!-- Última actualización: 2026-07-27T12:15:46.134573+00:00 UTC -->
