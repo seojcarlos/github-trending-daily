@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-08-03
+# ⭐ Top repositorios de la semana - 2026-08-10
 
 Basado en 7 días de datos del trending diario.
 
-1. [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) ⭐ 12.442 — 5 apariciones
+1. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 85.403 — 5 apariciones
 
-2. [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) ⭐ 60.247 — 4 apariciones
+2. [goauthentik/authentik](https://github.com/goauthentik/authentik) ⭐ 24.425 — 4 apariciones
 
-3. [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) ⭐ 10.336 — 4 apariciones
+3. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 268.941 — 4 apariciones
 
-4. [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) ⭐ 14.844 — 3 apariciones
+4. [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) ⭐ 16.999 — 4 apariciones
 
-5. [usekaneo/kaneo](https://github.com/usekaneo/kaneo) ⭐ 6.522 — 3 apariciones
+5. [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) ⭐ 32.721 — 4 apariciones
 
-6. [different-ai/openwork](https://github.com/different-ai/openwork) ⭐ 19.762 — 3 apariciones
+6. [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) ⭐ 12.786 — 4 apariciones
 
-7. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 56.463 — 3 apariciones
+7. [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) ⭐ 12.256 — 3 apariciones
 
-8. [pascalorg/editor](https://github.com/pascalorg/editor) ⭐ 20.346 — 3 apariciones
+8. [google/skills](https://github.com/google/skills) ⭐ 17.466 — 3 apariciones
 
-9. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26.370 — 3 apariciones
+9. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 210.422 — 3 apariciones
 
-10. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 236.470 — 3 apariciones
+10. [google/guava](https://github.com/google/guava) ⭐ 51.881 — 3 apariciones
 
-11. [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) ⭐ 4.387 — 3 apariciones
+11. [cloudflare/computer](https://github.com/cloudflare/computer) ⭐ 6.075 — 3 apariciones
 
-12. [moeru-ai/airi](https://github.com/moeru-ai/airi) ⭐ 45.696 — 3 apariciones
+12. [lyogavin/airllm](https://github.com/lyogavin/airllm) ⭐ 29.396 — 3 apariciones
 
-13. [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) ⭐ 11.638 — 2 apariciones
+13. [pranshuparmar/witr](https://github.com/pranshuparmar/witr) ⭐ 21.091 — 2 apariciones
 
-14. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 115.208 — 2 apariciones
+14. [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) ⭐ 78.091 — 2 apariciones
 
-15. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 35.711 — 2 apariciones
+15. [denoland/celld](https://github.com/denoland/celld) ⭐ 2.721 — 2 apariciones
 
-16. [iv-org/invidious](https://github.com/iv-org/invidious) ⭐ 22.133 — 2 apariciones
+16. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 186.399 — 2 apariciones
 
-17. [github/copilot-sdk](https://github.com/github/copilot-sdk) ⭐ 10.321 — 2 apariciones
+17. [huangruiteng/loopx](https://github.com/huangruiteng/loopx) ⭐ 3.159 — 2 apariciones
 
-18. [ansible/ansible](https://github.com/ansible/ansible) ⭐ 70.161 — 2 apariciones
+18. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 361.871 — 2 apariciones
 
-19. [agavra/tuicr](https://github.com/agavra/tuicr) ⭐ 2.223 — 2 apariciones
+19. [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) ⭐ 97.018 — 2 apariciones
 
-20. [deepfakes/faceswap](https://github.com/deepfakes/faceswap) ⭐ 57.146 — 2 apariciones
+20. [uber/ADR](https://github.com/uber/ADR) ⭐ 1.180 — 2 apariciones
 
-21. [1jehuang/jcode](https://github.com/1jehuang/jcode) ⭐ 14.777 — 2 apariciones
+21. [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) ⭐ 18.713 — 2 apariciones
 
-22. [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 59.394 — 2 apariciones
+22. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 116.563 — 2 apariciones
 
-23. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ⭐ 16.345 — 2 apariciones
+23. [usekaneo/kaneo](https://github.com/usekaneo/kaneo) ⭐ 7.436 — 2 apariciones
 
-24. [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) ⭐ 13.368 — 2 apariciones
+24. [livekit/agents](https://github.com/livekit/agents) ⭐ 12.613 — 2 apariciones
 
-25. [yorukot/superfile](https://github.com/yorukot/superfile) ⭐ 21.756 — 2 apariciones
+25. [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) ⭐ 3.289 — 1 apariciones
 
 
-<!-- Última actualización: 2026-08-03T12:16:14.442706+00:00 UTC -->
+<!-- Última actualización: 2026-08-10T10:11:15.618692+00:00 UTC -->
