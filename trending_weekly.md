@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-09-07
+# ⭐ Top repositorios de la semana - 2026-09-14
 
 Basado en 7 días de datos del trending diario.
 
-1. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 252.380 — 7 apariciones
+1. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) ⭐ 31.040 — 4 apariciones
 
-2. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 253.600 — 5 apariciones
+2. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) ⭐ 40.063 — 4 apariciones
 
-3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 128.634 — 5 apariciones
+3. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 285.084 — 4 apariciones
 
-4. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐ 242.237 — 5 apariciones
+4. [JustVugg/colibri](https://github.com/JustVugg/colibri) ⭐ 31.352 — 3 apariciones
 
-5. [fmtlib/fmt](https://github.com/fmtlib/fmt) ⭐ 25.605 — 5 apariciones
+5. [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) ⭐ 8.148 — 3 apariciones
 
-6. [blader/humanizer](https://github.com/blader/humanizer) ⭐ 43.846 — 5 apariciones
+6. [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) ⭐ 66.545 — 3 apariciones
 
-7. [anthropics/skills](https://github.com/anthropics/skills) ⭐ 174.747 — 4 apariciones
+7. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) ⭐ 4.523 — 3 apariciones
 
-8. [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) ⭐ 3.417 — 4 apariciones
+8. [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) ⭐ 2.016 — 3 apariciones
 
-9. [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) ⭐ 3.625 — 3 apariciones
+9. [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) ⭐ 5.262 — 3 apariciones
 
-10. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) ⭐ 71.234 — 3 apariciones
+10. [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) ⭐ 2.313 — 3 apariciones
 
-11. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 31.967 — 3 apariciones
+11. [armory3d/armorpaint](https://github.com/armory3d/armorpaint) ⭐ 4.826 — 3 apariciones
 
-12. [anomalyco/opencode](https://github.com/anomalyco/opencode) ⭐ 204.928 — 3 apariciones
+12. [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) ⭐ 2.612 — 3 apariciones
 
-13. [bikini/exploitarium](https://github.com/bikini/exploitarium) ⭐ 4.782 — 3 apariciones
+13. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 37.301 — 3 apariciones
 
-14. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ⭐ 103.366 — 3 apariciones
+14. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ⭐ 24.832 — 2 apariciones
 
-15. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 17.008 — 3 apariciones
+15. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 28.504 — 2 apariciones
 
-16. [google-research/timesfm](https://github.com/google-research/timesfm) ⭐ 30.890 — 3 apariciones
+16. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 105.778 — 2 apariciones
 
-17. [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) ⭐ 45.851 — 3 apariciones
+17. [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) ⭐ 5.931 — 2 apariciones
 
-18. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) ⭐ 32.204 — 3 apariciones
+18. [huggingface/transformers](https://github.com/huggingface/transformers) ⭐ 165.842 — 2 apariciones
 
-19. [humanlayer/skills](https://github.com/humanlayer/skills) ⭐ 2.915 — 2 apariciones
+19. [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) ⭐ 5.744 — 2 apariciones
 
-20. [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) ⭐ 2.495 — 2 apariciones
+20. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) ⭐ 23.702 — 2 apariciones
 
-21. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) ⭐ 94.986 — 2 apariciones
+21. [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) ⭐ 33.317 — 2 apariciones
 
-22. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) ⭐ 52.615 — 2 apariciones
+22. [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) ⭐ 1.797 — 2 apariciones
 
-23. [averygan/reclip](https://github.com/averygan/reclip) ⭐ 8.169 — 2 apariciones
+23. [nab138/iloader](https://github.com/nab138/iloader) ⭐ 2.996 — 2 apariciones
 
-24. [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) ⭐ 18.270 — 2 apariciones
+24. [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) ⭐ 15.833 — 2 apariciones
 
-25. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) ⭐ 44.960 — 1 apariciones
+25. [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux) ⭐ 1.287 — 2 apariciones
 
 
-<!-- Última actualización: 2026-09-07T14:41:02.818439+00:00 UTC -->
+<!-- Última actualización: 2026-09-14T15:33:39.303044+00:00 UTC -->
