@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-09-21
+# ⭐ Top repositorios de la semana - 2026-09-28
 
 Basado en 7 días de datos del trending diario.
 
-1. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 97.416 — 6 apariciones
+1. [dream-num/univer](https://github.com/dream-num/univer) ⭐ 21.071 — 7 apariciones
 
-2. [coder/coder](https://github.com/coder/coder) ⭐ 16.301 — 5 apariciones
+2. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) ⭐ 40.433 — 5 apariciones
 
-3. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) ⭐ 17.459 — 5 apariciones
+3. [paperclipai/paperclip](https://github.com/paperclipai/paperclip) ⭐ 92.134 — 4 apariciones
 
-4. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 146.916 — 5 apariciones
+4. [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) ⭐ 58.804 — 4 apariciones
 
-5. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 24.984 — 4 apariciones
+5. [google/ax](https://github.com/google/ax) ⭐ 11.111 — 4 apariciones
 
-6. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ⭐ 36.182 — 4 apariciones
+6. [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) ⭐ 4.603 — 3 apariciones
 
-7. [trycua/cua](https://github.com/trycua/cua) ⭐ 25.539 — 3 apariciones
+7. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 291.443 — 3 apariciones
 
-8. [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) ⭐ 17.384 — 3 apariciones
+8. [anthropics/financial-services](https://github.com/anthropics/financial-services) ⭐ 37.219 — 3 apariciones
 
-9. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 263.290 — 3 apariciones
+9. [mvt-project/mvt](https://github.com/mvt-project/mvt) ⭐ 14.612 — 3 apariciones
 
-10. [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) ⭐ 4.868 — 3 apariciones
+10. [superdesigndev/treg](https://github.com/superdesigndev/treg) ⭐ 2.972 — 3 apariciones
 
-11. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 78.214 — 3 apariciones
+11. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 42.818 — 2 apariciones
 
-12. [JustVugg/colibri](https://github.com/JustVugg/colibri) ⭐ 35.459 — 3 apariciones
+12. [mvschwarz/openrig](https://github.com/mvschwarz/openrig) ⭐ 1.512 — 2 apariciones
 
-13. [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) ⭐ 7.548 — 3 apariciones
+13. [openbao/openbao](https://github.com/openbao/openbao) ⭐ 7.887 — 2 apariciones
 
-14. [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) ⭐ 5.673 — 2 apariciones
+14. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 70.952 — 2 apariciones
 
-15. [anthropics/financial-services](https://github.com/anthropics/financial-services) ⭐ 35.667 — 2 apariciones
+15. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ⭐ 50.164 — 2 apariciones
 
-16. [cloudflare/quiche](https://github.com/cloudflare/quiche) ⭐ 12.211 — 2 apariciones
+16. [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ⭐ 8.094 — 2 apariciones
 
-17. [ruanyf/weekly](https://github.com/ruanyf/weekly) ⭐ 103.834 — 2 apariciones
+17. [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 31.337 — 2 apariciones
 
-18. [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X) ⭐ 3.620 — 2 apariciones
+18. [agent-substrate/substrate](https://github.com/agent-substrate/substrate) ⭐ 3.288 — 2 apariciones
 
-19. [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) ⭐ 5.158 — 2 apariciones
+19. [browser-use/video-use](https://github.com/browser-use/video-use) ⭐ 26.285 — 2 apariciones
 
-20. [asciimoo/hister](https://github.com/asciimoo/hister) ⭐ 5.093 — 2 apariciones
+20. [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) ⭐ 25.665 — 1 apariciones
 
-21. [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) ⭐ 4.894 — 2 apariciones
+21. [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) ⭐ 2.358 — 1 apariciones
 
-22. [TencentCloud/Octop](https://github.com/TencentCloud/Octop) ⭐ 3.782 — 2 apariciones
+22. [byoungd/up](https://github.com/byoungd/up) ⭐ 64.536 — 1 apariciones
 
-23. [ankitects/anki](https://github.com/ankitects/anki) ⭐ 31.072 — 2 apariciones
+23. [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) ⭐ 6.407 — 1 apariciones
 
-24. [supabase/supabase](https://github.com/supabase/supabase) ⭐ 109.972 — 2 apariciones
+24. [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) ⭐ 5.235 — 1 apariciones
 
-25. [Tencent/WeKnora](https://github.com/Tencent/WeKnora) ⭐ 25.996 — 2 apariciones
+25. [willfaust/Madeira](https://github.com/willfaust/Madeira) ⭐ 699 — 1 apariciones
 
 
-<!-- Última actualización: 2026-09-21T15:33:57.074587+00:00 UTC -->
+<!-- Última actualización: 2026-09-28T17:15:13.116802+00:00 UTC -->
