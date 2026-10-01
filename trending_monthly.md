@@ -1,36 +1,36 @@
-# ⭐ Top repositorios del mes - September 2026
+# ⭐ Top repositorios del mes - October 2026
 
 Basado en 1 días de datos del trending diario.
 
-1. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) ⭐ 31.018 — 1 apariciones
+1. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 150.001 — 1 apariciones
 
-2. [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) ⭐ 44.604 — 1 apariciones
+2. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 273.555 — 1 apariciones
 
-3. [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) ⭐ 28.900 — 1 apariciones
+3. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) ⭐ 13.789 — 1 apariciones
 
-4. [iv-org/invidious](https://github.com/iv-org/invidious) ⭐ 23.642 — 1 apariciones
+4. [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) ⭐ 6.827 — 1 apariciones
 
-5. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) ⭐ 56.779 — 1 apariciones
+5. [mvschwarz/openrig](https://github.com/mvschwarz/openrig) ⭐ 3.449 — 1 apariciones
 
-6. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 13.141 — 1 apariciones
+6. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 9.266 — 1 apariciones
 
-7. [3b1b/manim](https://github.com/3b1b/manim) ⭐ 92.402 — 1 apariciones
+7. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 293.764 — 1 apariciones
 
-8. [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) ⭐ 17.703 — 1 apariciones
+8. [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 24.688 — 1 apariciones
 
-9. [browser-use/video-use](https://github.com/browser-use/video-use) ⭐ 22.610 — 1 apariciones
+9. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) ⭐ 55.125 — 1 apariciones
 
-10. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 41.283 — 1 apariciones
+10. [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 110.994 — 1 apariciones
 
-11. [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) ⭐ 6.601 — 1 apariciones
+11. [tile-ai/tilelang](https://github.com/tile-ai/tilelang) ⭐ 8.010 — 1 apariciones
 
-12. [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) ⭐ 112.309 — 1 apariciones
+12. [pablostanley/yoinks](https://github.com/pablostanley/yoinks) ⭐ 2.713 — 1 apariciones
 
-13. [averygan/reclip](https://github.com/averygan/reclip) ⭐ 7.399 — 1 apariciones
+13. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) ⭐ 16.228 — 1 apariciones
 
-14. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 245.540 — 1 apariciones
+14. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 73.399 — 1 apariciones
 
-15. [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 80.684 — 1 apariciones
+15. [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) ⭐ 986 — 1 apariciones
 
 
-<!-- Última actualización: 2026-09-01T13:47:47.721848+00:00 UTC -->
+<!-- Última actualización: 2026-10-01T15:50:24.856038+00:00 UTC -->
