@@ -1,43 +1,28 @@
-# ⭐ Top 13 repositorios populares en GitHub - 2026-10-10
+# ⭐ Top 8 repositorios populares en GitHub - 2026-10-11
 
-1. [morluto/rea](https://github.com/morluto/rea) ⭐ 63.087 (+25784 hoy) `TypeScript`  
+1. [morluto/rea](https://github.com/morluto/rea) ⭐ 90.750 (+25585 hoy) `TypeScript`  
    _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-2. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) ⭐ 24.954 (+5831 hoy) `C++`  
+2. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) ⭐ 28.729 (+3977 hoy) `C++`  
    _Tool for automatic PS5 executables porting to Linux and Windows_
 
-3. [storytold/artcraft](https://github.com/storytold/artcraft) ⭐ 13.198 (+3217 hoy) `Rust`  
+3. [storytold/artcraft](https://github.com/storytold/artcraft) ⭐ 16.346 (+2956 hoy) `Rust`  
    _ArtCraft is an intentional crafting engine for artists, designers, and filmmakers_
 
-4. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 48.555 (+1189 hoy) `HTML`  
-   _Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop._
+4. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 49.760 (+1083 hoy) `HTML`  
+   _Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop._
 
-5. [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 26.093 (+178 hoy) `TypeScript`  
-   _Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks._
+5. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) ⭐ 50.937 (+872 hoy) `JavaScript`  
+   _A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe._
 
-6. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 283.814 (+1737 hoy) `Shell`  
-   _Skills for Real Engineers. Straight from my .agents directory._
-
-7. [flutter/flutter](https://github.com/flutter/flutter) ⭐ 179.323 (+39 hoy) `Dart`  
-   _Flutter makes it easy and fast to build beautiful apps for mobile and beyond_
-
-8. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 200.614 (+24 hoy) `C++`  
-   _An Open Source Machine Learning Framework for Everyone_
-
-9. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 59.071 (+372 hoy) `Python`  
-   _AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He_
-
-10. [pytorch/pytorch](https://github.com/pytorch/pytorch) ⭐ 104.048 (+81 hoy) `Python`  
+6. [pytorch/pytorch](https://github.com/pytorch/pytorch) ⭐ 104.322 (+314 hoy) `Python`  
    _Tensors and Dynamic neural networks in Python with strong GPU acceleration_
 
-11. [huggingface/transformers](https://github.com/huggingface/transformers) ⭐ 167.037 (+94 hoy) `Python`  
-   _🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training._
+7. [lyogavin/airllm](https://github.com/lyogavin/airllm) ⭐ 36.192 (+541 hoy) `Jupyter Notebook`  
+   _AirLLM 70B inference with single 4GB GPU_
 
-12. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 28.621 (+626 hoy) `Python`  
-   _Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork_
-
-13. [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 217.929 (+279 hoy)  
-   _A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls._
+8. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) ⭐ 73.961 (+496 hoy) `Assembly`  
+   _Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules._
 
 
-<!-- Última actualización: 2026-10-10T14:20:30.607593+00:00 UTC -->
+<!-- Última actualización: 2026-10-11T14:46:10.197223+00:00 UTC -->
