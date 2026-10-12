@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-10-05
+# ⭐ Top repositorios de la semana - 2026-10-12
 
 Basado en 7 días de datos del trending diario.
 
-1. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 154.303 — 5 apariciones
+1. [morluto/rea](https://github.com/morluto/rea) ⭐ 144.629 — 7 apariciones
 
-2. [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) ⭐ 91.657 — 4 apariciones
+2. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 52.177 — 7 apariciones
 
-3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 75.881 — 4 apariciones
+3. [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) ⭐ 28.729 — 6 apariciones
 
-4. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 275.062 — 4 apariciones
+4. [storytold/artcraft](https://github.com/storytold/artcraft) ⭐ 20.849 — 5 apariciones
 
-5. [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 25.170 — 4 apariciones
+5. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 283.814 — 5 apariciones
 
-6. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) ⭐ 14.274 — 4 apariciones
+6. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 28.621 — 3 apariciones
 
-7. [mvschwarz/openrig](https://github.com/mvschwarz/openrig) ⭐ 4.072 — 4 apariciones
+7. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 98.185 — 3 apariciones
 
-8. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 96.485 — 3 apariciones
+8. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) ⭐ 53.154 — 2 apariciones
 
-9. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) ⭐ 25.488 — 3 apariciones
+9. [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 27.050 — 2 apariciones
 
-10. [getsentry/sentry](https://github.com/getsentry/sentry) ⭐ 45.284 — 3 apariciones
+10. [lyogavin/airllm](https://github.com/lyogavin/airllm) ⭐ 37.280 — 2 apariciones
 
-11. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 294.709 — 3 apariciones
+11. [pytorch/pytorch](https://github.com/pytorch/pytorch) ⭐ 104.322 — 2 apariciones
 
-12. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) ⭐ 55.680 — 3 apariciones
+12. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 103.726 — 2 apariciones
 
-13. [tester-army/e2e](https://github.com/tester-army/e2e) ⭐ 4.247 — 2 apariciones
+13. [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) ⭐ 8.013 — 2 apariciones
 
-14. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) ⭐ 17.243 — 2 apariciones
+14. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) ⭐ 54.834 — 2 apariciones
 
-15. [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) ⭐ 63.766 — 2 apariciones
+15. [tester-army/e2e](https://github.com/tester-army/e2e) ⭐ 7.063 — 2 apariciones
 
-16. [caddyserver/caddy](https://github.com/caddyserver/caddy) ⭐ 76.949 — 2 apariciones
+16. [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) ⭐ 6.526 — 2 apariciones
 
-17. [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) ⭐ 10.901 — 2 apariciones
+17. [open-webui/open-webui](https://github.com/open-webui/open-webui) ⭐ 154.712 — 1 apariciones
 
-18. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) ⭐ 52.816 — 2 apariciones
+18. [microsoft/BitNet](https://github.com/microsoft/BitNet) ⭐ 40.813 — 1 apariciones
 
-19. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 101.016 — 2 apariciones
+19. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) ⭐ 58.701 — 1 apariciones
 
-20. [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) ⭐ 91.882 — 2 apariciones
+20. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) ⭐ 73.961 — 1 apariciones
 
-21. [Effect-TS/effect](https://github.com/Effect-TS/effect) ⭐ 16.699 — 2 apariciones
+21. [flutter/flutter](https://github.com/flutter/flutter) ⭐ 179.323 — 1 apariciones
 
-22. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ⭐ 109.328 — 2 apariciones
+22. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 200.614 — 1 apariciones
 
-23. [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 111.972 — 2 apariciones
+23. [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 59.071 — 1 apariciones
 
-24. [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) ⭐ 72.858 — 2 apariciones
+24. [huggingface/transformers](https://github.com/huggingface/transformers) ⭐ 167.037 — 1 apariciones
 
-25. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 9.413 — 2 apariciones
+25. [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 217.929 — 1 apariciones
 
 
-<!-- Última actualización: 2026-10-05T17:42:55.292148+00:00 UTC -->
+<!-- Última actualización: 2026-10-12T18:28:54.931101+00:00 UTC -->
