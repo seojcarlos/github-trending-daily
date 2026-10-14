@@ -1,31 +1,40 @@
-# ⭐ Top 9 repositorios populares en GitHub - 2026-10-13
+# ⭐ Top 12 repositorios populares en GitHub - 2026-10-14
 
-1. [morluto/rea](https://github.com/morluto/rea) ⭐ 195.303 (+54706 hoy) `TypeScript`  
+1. [morluto/rea](https://github.com/morluto/rea) ⭐ 228.656 (+41187 hoy) `TypeScript`  
    _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-2. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) ⭐ 54.824 (+1961 hoy) `JavaScript`  
-   _A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe._
-
-3. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 62.071 (+1691 hoy) `Python`  
+2. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 65.051 (+3547 hoy) `Python`  
    _VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages._
 
-4. [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 27.925 (+978 hoy) `TypeScript`  
+3. [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 28.758 (+946 hoy) `TypeScript`  
    _Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks._
 
-5. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 53.664 (+1813 hoy) `HTML`  
-   _Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop._
+4. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) ⭐ 95.373 (+45 hoy) `Shell`  
+   _Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions._
 
-6. [vercel-labs/skills](https://github.com/vercel-labs/skills) ⭐ 34.258 (+187 hoy) `TypeScript`  
-   _The open agent skills tool - npx skills_
+5. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 48.938 (+146 hoy) `Python`  
+   _Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard._
 
-7. [lyogavin/airllm](https://github.com/lyogavin/airllm) ⭐ 38.098 (+1004 hoy) `Jupyter Notebook`  
-   _AirLLM 2.8T LLM inference with single 4GB GPU_
+6. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ⭐ 52.215 (+94 hoy) `Python`  
+   _"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/_
 
-8. [storytold/artcraft](https://github.com/storytold/artcraft) ⭐ 24.609 (+4078 hoy) `Rust`  
-   _ArtCraft is an intentional crafting engine for artists, designers, and filmmakers_
+7. [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) ⭐ 26.691 (+2143 hoy) `Python`  
+   _Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds._
 
-9. [xtool-org/xtool](https://github.com/xtool-org/xtool) ⭐ 8.836 (+936 hoy) `Swift`  
+8. [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) ⭐ 28.807 (+1819 hoy) `Go`  
+   _Fully autonomous AI Agents system capable of performing complex penetration testing tasks_
+
+9. [rust-lang/rust](https://github.com/rust-lang/rust) ⭐ 120.026 (+205 hoy) `Rust`  
+   _Empowering everyone to build reliable and efficient software._
+
+10. [xtool-org/xtool](https://github.com/xtool-org/xtool) ⭐ 10.141 (+1510 hoy) `Swift`  
    _Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS._
 
+11. [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) ⭐ 20.051 (+132 hoy) `C#`  
+   _WinUI app for building smaller, customized Windows 11 images._
 
-<!-- Última actualización: 2026-10-13T15:43:07.402991+00:00 UTC -->
+12. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 86.869 (+1002 hoy) `Java`  
+   _Ghidra is a software reverse engineering (SRE) framework_
+
+
+<!-- Última actualización: 2026-10-14T13:26:41.756734+00:00 UTC -->
