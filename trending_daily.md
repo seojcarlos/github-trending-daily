@@ -1,31 +1,28 @@
-# ⭐ Top 9 repositorios populares en GitHub - 2026-10-22
+# ⭐ Top 8 repositorios populares en GitHub - 2026-10-23
 
-1. [php/php-src](https://github.com/php/php-src) ⭐ 40.844 (+110 hoy) `C`  
-   _The PHP Interpreter_
-
-2. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 31.334 (+303 hoy) `Python`  
-   _Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork_
-
-3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 172.729 (+1949 hoy) `JavaScript`  
-   _Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote._
-
-4. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) ⭐ 38.279 (+2979 hoy) `JavaScript`  
+1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) ⭐ 40.932 (+2706 hoy) `JavaScript`  
    _A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings_
 
-5. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 132.388 (+1407 hoy) `Python`  
-   _Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store._
+2. [php/php-src](https://github.com/php/php-src) ⭐ 41.460 (+722 hoy) `C`  
+   _The PHP Interpreter_
 
-6. [supabase/supabase](https://github.com/supabase/supabase) ⭐ 113.299 (+683 hoy) `TypeScript`  
-   _The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications._
+3. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 31.958 (+643 hoy) `Python`  
+   _Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork_
 
-7. [fastapi/fastapi](https://github.com/fastapi/fastapi) ⭐ 103.466 (+96 hoy) `Python`  
-   _FastAPI framework, high performance, easy to learn, fast to code, ready for production_
+4. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) ⭐ 18.323 (+211 hoy) `Rust`  
+   _OpenShell is the safe, private runtime for autonomous AI agents._
 
-8. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) ⭐ 42.690 (+428 hoy) `Python`  
-   _A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value._
+5. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) ⭐ 6.610 (+547 hoy) `TypeScript`  
+   _紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据_
 
-9. [Meloong-Git/PCL](https://github.com/Meloong-Git/PCL) ⭐ 8.573 (+115 hoy) `Visual Basic .NET`  
-   _Minecraft 启动器 Plain Craft Launcher（PCL）。_
+6. [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) ⭐ 8.071 (+209 hoy) `Python`  
+   _claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development._
+
+7. [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) ⭐ 40.028 (+144 hoy) `Python`  
+   _VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning_
+
+8. [nodejs/node](https://github.com/nodejs/node) ⭐ 122.618 (+76 hoy) `JavaScript`  
+   _Node.js JavaScript runtime ✨🐢🚀✨_
 
 
-<!-- Última actualización: 2026-10-22T13:36:59.819092+00:00 UTC -->
+<!-- Última actualización: 2026-10-23T13:12:36.427960+00:00 UTC -->
