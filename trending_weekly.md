@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-10-19
+# ⭐ Top repositorios de la semana - 2026-10-26
 
 Basado en 7 días de datos del trending diario.
 
-1. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 74.242 — 6 apariciones
+1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) ⭐ 45.902 — 6 apariciones
 
-2. [ruvnet/ruflo](https://github.com/ruvnet/ruflo) ⭐ 76.951 — 5 apariciones
+2. [Nutlope/hallmark](https://github.com/Nutlope/hallmark) ⭐ 35.433 — 3 apariciones
 
-3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ⭐ 55.019 — 5 apariciones
+3. [makecindy/cindy](https://github.com/makecindy/cindy) ⭐ 5.908 — 3 apariciones
 
-4. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) ⭐ 55.950 — 4 apariciones
+4. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 88.654 — 3 apariciones
 
-5. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) ⭐ 42.290 — 4 apariciones
+5. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) ⭐ 12.200 — 3 apariciones
 
-6. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 51.916 — 4 apariciones
+6. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 31.958 — 3 apariciones
 
-7. [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 30.022 — 4 apariciones
+7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 172.729 — 3 apariciones
 
-8. [anomalyco/opencode](https://github.com/anomalyco/opencode) ⭐ 217.391 — 3 apariciones
+8. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 132.388 — 3 apariciones
 
-9. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) ⭐ 11.009 — 3 apariciones
+9. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 115.501 — 2 apariciones
 
-10. [stablyai/orca](https://github.com/stablyai/orca) ⭐ 97.807 — 3 apariciones
+10. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) ⭐ 2.440 — 2 apariciones
 
-11. [android/skills](https://github.com/android/skills) ⭐ 8.610 — 3 apariciones
+11. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 88.252 — 2 apariciones
 
-12. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 281.929 — 3 apariciones
+12. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) ⭐ 7.390 — 2 apariciones
 
-13. [xerj-org/xerj](https://github.com/xerj-org/xerj) ⭐ 7.355 — 3 apariciones
+13. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) ⭐ 19.137 — 2 apariciones
 
-14. [morluto/rea](https://github.com/morluto/rea) ⭐ 259.645 — 3 apariciones
+14. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) ⭐ 44.170 — 2 apariciones
 
-15. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) ⭐ 139.348 — 2 apariciones
+15. [php/php-src](https://github.com/php/php-src) ⭐ 41.460 — 2 apariciones
 
-16. [Kruk2/jasna](https://github.com/Kruk2/jasna) ⭐ 2.775 — 2 apariciones
+16. [supabase/supabase](https://github.com/supabase/supabase) ⭐ 113.299 — 2 apariciones
 
-17. [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 152.445 — 2 apariciones
+17. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) ⭐ 62.310 — 2 apariciones
 
-18. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 12.509 — 2 apariciones
+18. [vllm-project/vllm](https://github.com/vllm-project/vllm) ⭐ 94.693 — 2 apariciones
 
-19. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 300.395 — 2 apariciones
+19. [stablyai/orca](https://github.com/stablyai/orca) ⭐ 100.618 — 2 apariciones
 
-20. [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 88.217 — 2 apariciones
+20. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 77.016 — 2 apariciones
 
-21. [xtool-org/xtool](https://github.com/xtool-org/xtool) ⭐ 10.141 — 2 apariciones
+21. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) ⭐ 141.239 — 2 apariciones
 
-22. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 76.068 — 1 apariciones
+22. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 42.623 — 2 apariciones
 
-23. [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) ⭐ 5.940 — 1 apariciones
+23. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 289.387 — 1 apariciones
 
-24. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 41.390 — 1 apariciones
+24. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) ⭐ 21.826 — 1 apariciones
 
-25. [mlabonne/llm-course](https://github.com/mlabonne/llm-course) ⭐ 83.784 — 1 apariciones
+25. [nightly-labs/openbot](https://github.com/nightly-labs/openbot) ⭐ 1.190 — 1 apariciones
 
 
-<!-- Última actualización: 2026-10-19T16:05:49.411607+00:00 UTC -->
+<!-- Última actualización: 2026-10-26T15:43:04.137409+00:00 UTC -->
