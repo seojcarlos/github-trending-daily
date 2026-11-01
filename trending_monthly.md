@@ -1,36 +1,40 @@
-# ⭐ Top repositorios del mes - October 2026
+# ⭐ Top repositorios del mes - November 2026
 
 Basado en 1 días de datos del trending diario.
 
-1. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 150.001 — 1 apariciones
+1. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 108.669 — 1 apariciones
 
-2. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 273.555 — 1 apariciones
+2. [lightpanda-io/browser](https://github.com/lightpanda-io/browser) ⭐ 39.751 — 1 apariciones
 
-3. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) ⭐ 13.789 — 1 apariciones
+3. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 45.041 — 1 apariciones
 
-4. [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) ⭐ 6.827 — 1 apariciones
+4. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) ⭐ 36.882 — 1 apariciones
 
-5. [mvschwarz/openrig](https://github.com/mvschwarz/openrig) ⭐ 3.449 — 1 apariciones
+5. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) ⭐ 10.231 — 1 apariciones
 
-6. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 9.266 — 1 apariciones
+6. [public-apis/public-apis](https://github.com/public-apis/public-apis) ⭐ 494.137 — 1 apariciones
 
-7. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 293.764 — 1 apariciones
+7. [cjpais/Handy](https://github.com/cjpais/Handy) ⭐ 36.167 — 1 apariciones
 
-8. [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 24.688 — 1 apariciones
+8. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) ⭐ 31.796 — 1 apariciones
 
-9. [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) ⭐ 55.125 — 1 apariciones
+9. [kornia/kornia](https://github.com/kornia/kornia) ⭐ 11.626 — 1 apariciones
 
-10. [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 110.994 — 1 apariciones
+10. [beenuar/AiSOC](https://github.com/beenuar/AiSOC) ⭐ 5.942 — 1 apariciones
 
-11. [tile-ai/tilelang](https://github.com/tile-ai/tilelang) ⭐ 8.010 — 1 apariciones
+11. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) ⭐ 12.870 — 1 apariciones
 
-12. [pablostanley/yoinks](https://github.com/pablostanley/yoinks) ⭐ 2.713 — 1 apariciones
+12. [anomalyco/hex](https://github.com/anomalyco/hex) ⭐ 2.745 — 1 apariciones
 
-13. [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) ⭐ 16.228 — 1 apariciones
+13. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) ⭐ 9.293 — 1 apariciones
 
-14. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 73.399 — 1 apariciones
+14. [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) ⭐ 12.645 — 1 apariciones
 
-15. [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) ⭐ 986 — 1 apariciones
+15. [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 39.917 — 1 apariciones
+
+16. [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) ⭐ 15.165 — 1 apariciones
+
+17. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) ⭐ 39.189 — 1 apariciones
 
 
-<!-- Última actualización: 2026-10-01T15:50:24.856038+00:00 UTC -->
+<!-- Última actualización: 2026-11-01T15:35:43.853321+00:00 UTC -->
