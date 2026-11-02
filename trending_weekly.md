@@ -1,56 +1,56 @@
-# ⭐ Top repositorios de la semana - 2026-10-26
+# ⭐ Top repositorios de la semana - 2026-11-02
 
 Basado en 7 días de datos del trending diario.
 
-1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) ⭐ 45.902 — 6 apariciones
+1. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 110.489 — 5 apariciones
 
-2. [Nutlope/hallmark](https://github.com/Nutlope/hallmark) ⭐ 35.433 — 3 apariciones
+2. [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) ⭐ 12.645 — 5 apariciones
 
-3. [makecindy/cindy](https://github.com/makecindy/cindy) ⭐ 5.908 — 3 apariciones
+3. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 97.795 — 5 apariciones
 
-4. [pbakaus/impeccable](https://github.com/pbakaus/impeccable) ⭐ 88.654 — 3 apariciones
+4. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 309.789 — 5 apariciones
 
-5. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) ⭐ 12.200 — 3 apariciones
+5. [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) ⭐ 52.390 — 5 apariciones
 
-6. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 31.958 — 3 apariciones
+6. [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) ⭐ 33.293 — 4 apariciones
 
-7. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 172.729 — 3 apariciones
+7. [pingdotgg/t3code](https://github.com/pingdotgg/t3code) ⭐ 41.030 — 4 apariciones
 
-8. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 132.388 — 3 apariciones
+8. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) ⭐ 10.231 — 4 apariciones
 
-9. [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) ⭐ 115.501 — 2 apariciones
+9. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) ⭐ 6.413 — 4 apariciones
 
-10. [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) ⭐ 2.440 — 2 apariciones
+10. [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 309.999 — 3 apariciones
 
-11. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) ⭐ 88.252 — 2 apariciones
+11. [lightpanda-io/browser](https://github.com/lightpanda-io/browser) ⭐ 39.751 — 3 apariciones
 
-12. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) ⭐ 7.390 — 2 apariciones
+12. [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) ⭐ 12.870 — 3 apariciones
 
-13. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) ⭐ 19.137 — 2 apariciones
+13. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) ⭐ 9.293 — 3 apariciones
 
-14. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) ⭐ 44.170 — 2 apariciones
+14. [nightly-labs/openbot](https://github.com/nightly-labs/openbot) ⭐ 3.657 — 3 apariciones
 
-15. [php/php-src](https://github.com/php/php-src) ⭐ 41.460 — 2 apariciones
+15. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) ⭐ 39.781 — 2 apariciones
 
-16. [supabase/supabase](https://github.com/supabase/supabase) ⭐ 113.299 — 2 apariciones
+16. [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) ⭐ 15.908 — 2 apariciones
 
-17. [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) ⭐ 62.310 — 2 apariciones
+17. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 45.885 — 2 apariciones
 
-18. [vllm-project/vllm](https://github.com/vllm-project/vllm) ⭐ 94.693 — 2 apariciones
+18. [kornia/kornia](https://github.com/kornia/kornia) ⭐ 12.066 — 2 apariciones
 
-19. [stablyai/orca](https://github.com/stablyai/orca) ⭐ 100.618 — 2 apariciones
+19. [expo/skills](https://github.com/expo/skills) ⭐ 3.810 — 2 apariciones
 
-20. [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 77.016 — 2 apariciones
+20. [macro-inc/macro](https://github.com/macro-inc/macro) ⭐ 5.738 — 2 apariciones
 
-21. [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) ⭐ 141.239 — 2 apariciones
+21. [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) ⭐ 11.824 — 2 apariciones
 
-22. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) ⭐ 42.623 — 2 apariciones
+22. [Nutlope/hallmark](https://github.com/Nutlope/hallmark) ⭐ 40.186 — 2 apariciones
 
-23. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 289.387 — 1 apariciones
+23. [makecindy/cindy](https://github.com/makecindy/cindy) ⭐ 7.886 — 2 apariciones
 
-24. [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) ⭐ 21.826 — 1 apariciones
+24. [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) ⭐ 8.864 — 1 apariciones
 
-25. [nightly-labs/openbot](https://github.com/nightly-labs/openbot) ⭐ 1.190 — 1 apariciones
+25. [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 92.545 — 1 apariciones
 
 
-<!-- Última actualización: 2026-10-26T15:43:04.137409+00:00 UTC -->
+<!-- Última actualización: 2026-11-02T19:01:41.613249+00:00 UTC -->
