@@ -1,43 +1,40 @@
-# ⭐ Top 13 repositorios populares en GitHub - 2026-11-12
+# ⭐ Top 12 repositorios populares en GitHub - 2026-11-13
 
-1. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) ⭐ 2.496 (+799 hoy) `TypeScript`  
-   __
+1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ⭐ 50.321 (+206 hoy) `Go`  
+   _Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible._
 
-2. [openai/codex-security](https://github.com/openai/codex-security) ⭐ 12.209 (+663 hoy) `TypeScript`  
+2. [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) ⭐ 4.413 (+1875 hoy) `TypeScript`  
+   _Keep your coding agent up to date with the latest web best practices_
+
+3. [openai/codex-security](https://github.com/openai/codex-security) ⭐ 12.922 (+754 hoy) `TypeScript`  
    _OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security_
 
-3. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) ⭐ 95.958 (+107 hoy) `Shell`  
-   _Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions._
+4. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) ⭐ 71.379 (+272 hoy) `Python`  
+   _LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs._
 
-4. [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) ⭐ 1.436 (+390 hoy) `Objective-C`  
-   _Enable Hermès Watch Faces on any Apple Watch devices_
-
-5. [we-promise/sure](https://github.com/we-promise/sure) ⭐ 13.662 (+974 hoy) `Ruby`  
+5. [we-promise/sure](https://github.com/we-promise/sure) ⭐ 14.483 (+944 hoy) `Ruby`  
    _The personal finance app for everyone (by everyone)_
 
-6. [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) ⭐ 29.658 (+151 hoy) `TypeScript`  
-   _An open-source AI coding agent that lives in your terminal._
+6. [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ⭐ 10.327 (+100 hoy) `TypeScript`  
+   _The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click._
 
-7. [ashhart/TensorFold](https://github.com/ashhart/TensorFold) ⭐ 1.872 (+58 hoy) `Zig`  
-   _LLM Inference Engine for Metal, CUDA and Vulkan._
+7. [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ⭐ 93.702 (+61 hoy) `JavaScript`  
+   _A fancy self-hosted monitoring tool_
 
-8. [nodejs/node](https://github.com/nodejs/node) ⭐ 123.540 (+133 hoy) `JavaScript`  
-   _Node.js JavaScript runtime ✨🐢🚀✨_
+8. [block/buzz](https://github.com/block/buzz) ⭐ 37.208 (+95 hoy) `Rust`  
+   _A hive mind communication platform_
 
-9. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 116.485 (+812 hoy) `JavaScript`  
-   _Production-grade engineering skills for AI coding agents._
+9. [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) ⭐ 3.972 (+60 hoy) `Python`  
+   _Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development._
 
-10. [meta/astryx](https://github.com/meta/astryx) ⭐ 26.206 (+1789 hoy) `TypeScript`  
-   _An open source design system that's fully customizable and agent ready_
+10. [tailscale/tailcat](https://github.com/tailscale/tailcat) ⭐ 9.287 (+173 hoy) `Go`  
+   _like netcat, but over Tailscale's data plane, without Tailscale's control plane_
 
-11. [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) ⭐ 11.370 (+291 hoy) `TypeScript`  
-   _Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent._
+11. [Likely7/Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) ⭐ 1.488 (+245 hoy) `C++`  
+   _Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience._
 
-12. [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) ⭐ 69.025 (+461 hoy) `Python`  
-   _Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)_
-
-13. [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 134.381 (+287 hoy) `C++`  
-   _LLM inference in C/C++_
+12. [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 55.298 (+145 hoy) `TypeScript`  
+   _Chrome DevTools for coding agents_
 
 
-<!-- Última actualización: 2026-11-12T16:40:17.244696+00:00 UTC -->
+<!-- Última actualización: 2026-11-13T15:59:05.544862+00:00 UTC -->
