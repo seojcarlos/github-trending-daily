@@ -1,49 +1,64 @@
-# ⭐ Top 15 repositorios populares en GitHub - 2026-11-17
+# ⭐ Top 20 repositorios populares en GitHub - 2026-11-18
 
-1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) ⭐ 8.680 (+1007 hoy) `Python`  
+1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) ⭐ 10.905 (+2322 hoy) `Python`  
    _A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices._
 
-2. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 68.785 (+772 hoy) `Python`  
-   _AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary_
-
-3. [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ⭐ 53.554 (+764 hoy) `Go`  
-   _Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible._
-
-4. [Tencent/LoopForge](https://github.com/Tencent/LoopForge) ⭐ 2.967 (+590 hoy) `Go`  
-   _Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants._
-
-5. [dream-num/univer](https://github.com/dream-num/univer) ⭐ 28.769 (+1776 hoy) `TypeScript`  
-   _Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core._
-
-6. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) ⭐ 9.172 (+654 hoy) `Go`  
-   _Modern Docker Management, Designed for Everyone_
-
-7. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) ⭐ 9.996 (+350 hoy) `TypeScript`  
-   _A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor._
-
-8. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 16.816 (+196 hoy) `TypeScript`  
+2. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 17.113 (+315 hoy) `TypeScript`  
    _Cursor plugin specification and official plugins_
 
-9. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 319.129 (+598 hoy) `Shell`  
-   _An agentic skills framework &amp; software development methodology that works._
+3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ⭐ 59.497 (+384 hoy) `Python`  
+   _"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/_
 
-10. [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) ⭐ 19.878 (+1444 hoy) `TypeScript`  
-   _AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications._
+4. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 69.774 (+1062 hoy) `Python`  
+   _AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary_
 
-11. [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ⭐ 12.962 (+691 hoy) `TypeScript`  
-   _The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click._
+5. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) ⭐ 9.683 (+547 hoy) `Go`  
+   _Modern Docker Management, Designed for Everyone_
 
-12. [sveltejs/svelte](https://github.com/sveltejs/svelte) ⭐ 89.477 (+533 hoy) `JavaScript`  
-   _web development for the rest of us_
+6. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) ⭐ 3.577 (+323 hoy) `Python`  
+   _Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior._
 
-13. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 305.222 (+902 hoy) `JavaScript`  
-   _The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond._
+7. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) ⭐ 96.116 (+199 hoy) `Shell`  
+   _Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions._
 
-14. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) ⭐ 65.784 (+188 hoy) `Python`  
-   _🧠 Train a 64M-parameter LLM from scratch in just 2h!_
+8. [astral-sh/uv](https://github.com/astral-sh/uv) ⭐ 92.161 (+260 hoy) `Rust`  
+   _An extremely fast Python package and project manager, written in Rust._
 
-15. [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) ⭐ 2.641 (+1175 hoy) `Python`  
+9. [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) ⭐ 4.008 (+1529 hoy) `Python`  
    _PaperOrchestra is a multi-agent framework for automated AI research paper writing._
 
+10. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) ⭐ 10.330 (+369 hoy) `TypeScript`  
+   _A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor._
 
-<!-- Última actualización: 2026-11-17T17:28:22.565809+00:00 UTC -->
+11. [sveltejs/svelte](https://github.com/sveltejs/svelte) ⭐ 89.677 (+694 hoy) `JavaScript`  
+   _web development for the rest of us_
+
+12. [jquery/jquery](https://github.com/jquery/jquery) ⭐ 59.977 (+268 hoy) `JavaScript`  
+   _jQuery JavaScript Library_
+
+13. [appwrite/appwrite](https://github.com/appwrite/appwrite) ⭐ 58.155 (+239 hoy) `TypeScript`  
+   _The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more_
+
+14. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) ⭐ 11.264 (+18 hoy) `C++`  
+   _OpenVINO™ is an open source toolkit for optimizing and deploying AI inference_
+
+15. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 319.848 (+823 hoy) `Shell`  
+   _An agentic skills framework &amp; software development methodology that works._
+
+16. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 306.272 (+1109 hoy) `JavaScript`  
+   _The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond._
+
+17. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) ⭐ 7.880 (+991 hoy) `JavaScript`  
+   _江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes_
+
+18. [n8n-io/n8n](https://github.com/n8n-io/n8n) ⭐ 210.923 (+315 hoy) `TypeScript`  
+   _Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations._
+
+19. [solidjs/solid](https://github.com/solidjs/solid) ⭐ 36.450 (+37 hoy) `TypeScript`  
+   _A declarative, efficient, and flexible JavaScript library for building user interfaces._
+
+20. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 97.940 (+52 hoy)  
+   _A collection of MCP servers._
+
+
+<!-- Última actualización: 2026-11-18T17:01:36.910674+00:00 UTC -->
