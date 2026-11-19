@@ -1,64 +1,52 @@
-# ⭐ Top 20 repositorios populares en GitHub - 2026-11-18
+# ⭐ Top 16 repositorios populares en GitHub - 2026-11-19
 
-1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) ⭐ 10.905 (+2322 hoy) `Python`  
+1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) ⭐ 12.105 (+1353 hoy) `Python`  
    _A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices._
 
-2. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 17.113 (+315 hoy) `TypeScript`  
-   _Cursor plugin specification and official plugins_
-
-3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ⭐ 59.497 (+384 hoy) `Python`  
-   _"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/_
-
-4. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 69.774 (+1062 hoy) `Python`  
-   _AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary_
-
-5. [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) ⭐ 9.683 (+547 hoy) `Go`  
-   _Modern Docker Management, Designed for Everyone_
-
-6. [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) ⭐ 3.577 (+323 hoy) `Python`  
-   _Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior._
-
-7. [nvm-sh/nvm](https://github.com/nvm-sh/nvm) ⭐ 96.116 (+199 hoy) `Shell`  
-   _Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions._
-
-8. [astral-sh/uv](https://github.com/astral-sh/uv) ⭐ 92.161 (+260 hoy) `Rust`  
-   _An extremely fast Python package and project manager, written in Rust._
-
-9. [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) ⭐ 4.008 (+1529 hoy) `Python`  
-   _PaperOrchestra is a multi-agent framework for automated AI research paper writing._
-
-10. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) ⭐ 10.330 (+369 hoy) `TypeScript`  
-   _A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor._
-
-11. [sveltejs/svelte](https://github.com/sveltejs/svelte) ⭐ 89.677 (+694 hoy) `JavaScript`  
-   _web development for the rest of us_
-
-12. [jquery/jquery](https://github.com/jquery/jquery) ⭐ 59.977 (+268 hoy) `JavaScript`  
-   _jQuery JavaScript Library_
-
-13. [appwrite/appwrite](https://github.com/appwrite/appwrite) ⭐ 58.155 (+239 hoy) `TypeScript`  
-   _The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more_
-
-14. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) ⭐ 11.264 (+18 hoy) `C++`  
-   _OpenVINO™ is an open source toolkit for optimizing and deploying AI inference_
-
-15. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 319.848 (+823 hoy) `Shell`  
+2. [obra/superpowers](https://github.com/obra/superpowers) ⭐ 321.855 (+2029 hoy) `Shell`  
    _An agentic skills framework &amp; software development methodology that works._
 
-16. [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 306.272 (+1109 hoy) `JavaScript`  
-   _The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond._
+3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) ⭐ 60.359 (+899 hoy) `Python`  
+   _"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/_
 
-17. [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) ⭐ 7.880 (+991 hoy) `JavaScript`  
-   _江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes_
+4. [jingyaogong/minimind](https://github.com/jingyaogong/minimind) ⭐ 66.741 (+301 hoy) `Python`  
+   _🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours._
 
-18. [n8n-io/n8n](https://github.com/n8n-io/n8n) ⭐ 210.923 (+315 hoy) `TypeScript`  
-   _Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations._
+5. [cursor/plugins](https://github.com/cursor/plugins) ⭐ 17.481 (+383 hoy) `TypeScript`  
+   _Cursor plugin specification and official plugins_
 
-19. [solidjs/solid](https://github.com/solidjs/solid) ⭐ 36.450 (+37 hoy) `TypeScript`  
-   _A declarative, efficient, and flexible JavaScript library for building user interfaces._
+6. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 203.852 (+795 hoy) `TypeScript`  
+   _Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API._
 
-20. [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 97.940 (+52 hoy)  
-   _A collection of MCP servers._
+7. [nginx/nginx](https://github.com/nginx/nginx) ⭐ 32.268 (+66 hoy) `C`  
+   _The official NGINX Open Source repository._
+
+8. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) ⭐ 11.506 (+246 hoy) `C++`  
+   _OpenVINO™ is an open source toolkit for optimizing and deploying AI inference_
+
+9. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 68.487 (+332 hoy) `HTML`  
+   _Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop._
+
+10. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 70.638 (+952 hoy) `Python`  
+   _AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary_
+
+11. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) ⭐ 10.629 (+303 hoy) `TypeScript`  
+   _A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor._
+
+12. [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) ⭐ 1.656 (+542 hoy) `Shell`  
+   _Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents._
+
+13. [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) ⭐ 12.992 (+25 hoy) `Python`  
+   _The open-source agent for CI/CD reliability._
+
+14. [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 74.953 (+170 hoy) `TypeScript`  
+   _There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use._
+
+15. [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) ⭐ 12.484 (+449 hoy) `Python`  
+   _The only downloader you need. 下载器的集大成者。_
+
+16. [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) ⭐ 11.072 (+110 hoy) `Python`  
+   _AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing._
 
 
-<!-- Última actualización: 2026-11-18T17:01:36.910674+00:00 UTC -->
+<!-- Última actualización: 2026-11-19T17:10:44.586291+00:00 UTC -->
